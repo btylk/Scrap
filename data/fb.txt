@@ -1,0 +1,1948 @@
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+พนักงาน Twitch แฉพฤติกรรมเหยียดเพศ เหยียดผิว และคุกคามทางเพศในบริษัท | Blognone
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blognone42","theme_token":"7I84Pd7ivQ_jLnKHySKNwPbgPPAhg2plPoaausQvwFs","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/blognone42\/css\/reset.css":1,"sites\/all\/themes\/blognone42\/css\/style.css":1,"sites\/all\/themes\/blognone42\/css\/resps.css":1}},"urlIsAjaxTrusted":{"\/node\/118941?destination=node\/118941":true}});
+//--><!]]>
+
+
+
+
+
+
+
+
+
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+
+
+
+
+  googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+  addSize([780, 0], [728, 90]).
+  addSize([0, 0], [320, 50]).
+  build();
+
+	googletag.defineSlot('/121015634/blognone_leader_top', [728, 90], 'div-gpt-ad-1416143777472-0').defineSizeMapping(mapping).addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+
+
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1479960323194-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+
+
+
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1429324800409-0').addService(googletag.pubads());
+   googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+ });
+
+
+
+
+
+
+    
+
+        
+Skip to main content
+
+    
+
+        
+
+
+
+
+
+
+
+	
+
+	
+
+
+		
+
+		
+
+		
+
+			
+
+		
+
+		
+
+		
+
+	
+		
+
+		  
+
+    
+
+
+    
+  
+
+    
+
+
+
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1416143777472-0'); });
+
+//--><!]]>
+
+
+
+  
+
+
+
+  
+
+		
+
+
+	
+
+	
+
+	
+
+
+	
+
+	
+
+		
+
+                        
+
+                
+Main menu
+Features
+
+
+Interview
+
+
+Forum
+
+
+Jobs
+
+
+Workplace
+
+
+Company Profile
+
+
+Search
+
+
+            
+ 
+
+            		
+
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+	
+
+
+	
+          
+You are here
+Home
+ » 
+Blogs
+ » 
+mheevariety's blog
+
+    				
+
+		              
+		
+
+			  
+
+    
+
+
+    
+  
+
+    
+
+
+  
+
+  
+พนักงาน Twitch แฉพฤติกรรมเหยียดเพศ เหยียดผิว และคุกคามทางเพศในบริษัท
+
+    
+
+  
+
+      
+By: 
+mheevariety
+ 
+ on 10 October 2020 - 00:20
+
+  
+      
+Tags:
+Topics: 
+Twitch
+Sexual Abuse
+Racism
+Gender
+
+            
+
+
+  
+
+        
+
+        
+
+    
+เว็บไซต์ 
+Gamindustry.biz
+ เผยแพร่รายงานขนาดยาว เล่าเรื่องราวจากปากพนักงาน Twitch ที่ไม่เปิดเผยตัวตน ถึงพฤติกรรมเหยียดเพศ เหยียดผิว และคุกคามทางเพศ ในบริษัท หลัง Emmett Shear ซีอีโอของ Twitch ออก
+แถลงการบนทวิตเตอร์
+ เกี่ยวกับการแก้ปัญหาพฤติกรรมคุกคามทางเพศ และสนับสนุนผู้ที่ออกมาส่งเสียงเรียกร้องสิทธิของตนเอง
+
+
+พนักงานรายหนึ่งกล่าวว่าการทำงานในบริษัท เหมือนอยู่ในกลุ่มผู้ชายห่ามๆ ตลอดเวลา ผู้หญิงถูกปฏิบัติด้วยมาตรฐานที่แตกต่างไป ไม่มีใครใส่ใจความเห็นของผู้หญิงในบริษัท ไม่ได้รับโอกาสเท่าเทียมกับผู้ชาย และถูกปฏิบัติเหมือนเป็นเหยื่อในฝูงนักล่า (“They were prey.")
+
+
+คำร้องเรียนของพนักงานถูก Twitch ซุกใต้พรมและไม่ดำเนินการใดๆ ฝ่ายบุคคลมักจะต้องการเอาใจผู้บริหารมากกว่าพนักงาน และบางครั้งการร้องเรียนเรื่องพฤติกรรมแย่ๆ ยังทำให้ผู้ร้องเรียนถูกเพ่งเล็งจากผู้บริหารมากขึ้น แม้แต่ Samantha Wong ที่เป็นภรรยาของ Justin Wong อดีตผู้บริหาร Twitch ยังถูกคุกคามทางเพศ และไม่สามารถดำเนินการใดๆ กับผู้ก่อเหตุที่เป็นแขก VIP ของบริษัทได้ แม้สามีของเธอจะนำเรื่องนี้เข้าสู่ที่ประชุมระดับสูงก็ตาม
+
+
+
+
+นอกจากนี้ยังมีปัญหาเรื่องการเหยียดผิวในบริษัท เรื่อง hate speech  ปัญหาเรื่องวัฒนธรรมการดื่มสุราที่และปาร์ตี้อย่างหนักที่บริษัท ปัญหาเรื่องเหล่าผู้บริหารและคนที่ตัดสินใจนโยบายต่างๆ ล้วนเป็นชายผิวขาว และมีกลุ่มคนที่ไม่มีใครสามารถเอาผิดได้ เช่น Kevin Lin อดีต COO ที่ปัจจุบันอยู่ในตำแหน่งที่ปรึกษาด้านวัฒนธรรม กลยุทธ และนวัตกรรมขององค์กร และกลุ่มพนักงานที่อยู่กับบริษัทมาตั้งแต่สมัยยังเป็น Justin.tv
+
+
+ประเด็นปัญหาเรื่องความปลอดภัยของผู้ใช้งานก็น่าเป็นห่วง เพราะเคยมีทั้งวิดีโอการฆ่าตัวตายของวัยรุ่นในปี 2008 สมัยยังเป็น Justin.tv ปัญหาเรื่องที่สตรีมเมอร์ถูกคุกคามทั้งในแชทและในชีวิตจริง และปัญหาการเปิดเผยข้อมูลส่วนตัวขอสตรีมเมอร์ที่เป็นเยาวชน และอีกมากมาย ที่ Twitch ดูจะไม่ใส่ใจมากเท่าที่ควร
+
+
+
+
+เมื่อ Gameindustry แจ้งเรื่องไปทาง Twitch ในหลายๆ ประเด็น ก็ได้คำตอบว่าทางบริษัทจริงจังในการสืบสวนและแก้ไขปัญหาร้องเรียนที่เกิดขึ้น การกล่าวหาว่าบริษัทไม่กระทำการใดๆ เกี่ยวกับเรื่องเหล่านี้ เป็นการไม่สะท้อนถึงภาพรวมที่แท้จริงของบริษัทในปัจจุบัน และหลายเหตุการณ์ก็เกิดขึ้นนานมาแล้ว
+
+
+ในหลายๆ กรณี พนักงานที่มาเปิดเผยเรื่องราวที่เกิดขึ้น ไม่สามารถเปิดเผยช่วงเวลาได้ เพื่อเป็นการปกป้องข้อมูลที่อาจระบุตัวตนของพนักงานเหล่านั้น และดูเหมือนสภาวะในองค์กรของ Twitch จะเปลี่ยนไปมากหลังจากที่ Amazon เข้าซื้อ Twitch ในปี 2014 ด้วยเงิน 970 ล้านเหรียญสหรัฐ
+
+
+พนักงานรายหนึ่งเขียนแถลงการเรียกร้องให้ Twitch เปลี่ยนแปลงและแก้ไขพฤติกรรมเหล่านี้โดยด่วน โดยการเริ่มตั้งฝ่ายบุคคลที่ปราศจากอคติ ไล่บุคคลที่มีพฤติกรรมไม่พึงประสงค์ออก รับฟังปัญหาและให้โอกาสผู้หญิงในที่ทำงานอย่างเท่าเทียมมากขึ้น ซึ่งการเปลี่ยนแปลงเหล่านี้จะเกิดขึ้นได้จริงหรือไม่ คงต้องติดตามกันต่อไป
+
+
+ที่มา - 
+Gameindustry.biz
+
+
+    
+
+        
+
+	
+
+
+
+
+
+  window.fbAsyncInit = function() {
+    FB.init({appId: '174772009239258', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+
+
+
+
+
+
+
+
+    
+
+
+ 
+
+
+Get latest news from Blognone
+
+
+
+Follow @twitterapi
+
+
+
+
+
+ 
+
+      
+
+
+
+
+
+      
+
+
+    
+Hiring! บริษัทที่น่าสนใจ
+
+  
+  
+
+    
+
+        
+  
+  
+      
+
+        
+
+      
+          
+
+  
+    
+
+  
+  
+
+    
+Unilever Thai Trading
+
+    
+Unilever Thai Group of Companies is a fast-moving consumer goods company.
+
+  
+
+
+    
+
+  
+
+      
+          
+
+  
+    
+
+  
+  
+
+    
+30 SecondsToFly Co., Ltd.
+
+    
+At 30SecondsToFly we are revolutionizing corporate travel through machine learning.
+
+  
+
+
+    
+
+  
+
+      
+          
+
+  
+    
+
+  
+  
+
+    
+Chomchobgroup Co., Ltd.
+
+    
+ChomCHOB(ชมชอบ) เป็นstartupที่ต้องการทำให้เรื่องการใช้แต้มสะสม ที่กระจัดกระจายสามารถรวมกันได้
+
+  
+
+
+    
+
+    
+
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+
+  
+
+
+
+          
+Comments
+
+      
+  
+
+
+
+  
+
+    By: 
+Mediumrare
+ 
+ on 10 October 2020 - 01:49 
+#1179858
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+Jutin.tv > Justin.tv
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+SomeThing
+ 
+ on 10 October 2020 - 07:43 
+#1179882
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+เรื่องเหยียดสีผิวนี่ฝังรากลึกตั้งแต่คำสอนแล้ว ชอบแทนความดีเป็นสีขาว ความชั่วคือสีดำ แม้กระทั่งในหนัง เห็นใช้คำว่าเข้าสู่ยุคมืด (Dark) บ่อยๆ ถ้าเด็กตัวดำได้ยินจะรู้สึกยังไง ?
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+ppJr
+ 
+ on 10 October 2020 - 08:24 
+#1179893
+
+    
+Reply to:1179882
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+คนเป็นโรคกลัวความมืดคงเป็นพวกเหยียดมากจนป่วยกันเลยทีเดียว
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+SomeThing
+ 
+ on 10 October 2020 - 11:59 
+#1179941
+
+    
+Reply to:1179893
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+ต้องถามต่อว่าคนที่กลัวความมืด ถ้าคุณไปต่างประเทศ หลงทางเจอคนกลุ่มดำและขาว คุณเลือกจะไปถามคนกลุ่มไหน นั่นล่ะครับคำตอบที่แท้จริง
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+ppJr
+ 
+ on 10 October 2020 - 12:24 
+#1179943
+
+    
+Reply to:1179941
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+ผมอธิบายเปรียบเทียบให้เห็นว่า
+
+ทำไมความมืดมันถึงมีความหมายทางด้านลบ
+
+โรคกลัวความมืดเป็นอาการป่วยทางจิตใจของคน
+
+ส่วนถ้าผมหลงทางแล้วจะไปถามคนกลุ่มใหนคุณรู้ได้อย่างไร?
+
+ผมงงที่คุณเอามารวมกันได้ยังไง แล้วคุณคิดว่าผมจะถามกลุ่มไหน? เพราะอะไร?
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+princeth
+ 
+ on 10 October 2020 - 10:15 
+#1179922
+
+    
+Reply to:1179882
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+อยากให้แยกแยะคำว่าสีดำกับความมืด ไม่ควรที่จะเป็นสิ่งเดียวกัน ความมืดคือเราอยู่ในที่ ๆ ไม่มีแสงสว่าง ไม่เห็นสี ไม่เห็นหนทางรอบตัว ไม่รู้ว่าจะมีอะไรเกิดขึ้นโดยไม่คาดคิดหรือไม่ Dark คือความกลัว ส่วนสีดำคือสีของวัตถุ สิ่งของ หรือสีผิว ไม่ว่าจะอยู่ในที่สว่างหรือมืด มันก็ยังเป็นสีดำไปตลอด แต่นั่นแหละ มนุษย์เราชอบตัดสินว่าความมืดคือสีดำ แล้วเราก็เหมารวมว่าสีดำคือความน่ากลัว สีดำ ≠ ความมืด
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+ppJr
+ 
+ on 10 October 2020 - 10:42 
+#1179929
+
+    
+Reply to:1179922
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+มันคงแยกกันไม่ออกหรอกครับเพราะมันผูกกับตามหลักการทางวิทยาศาสตร์
+
+สีดำคือสิ่งที่ไม่สะท้อนแสงมาที่ตาเราส่วนสีขาวคือสิ่งที่สะท้อนแสงทุกแฉดมีมาที่ตาเรา
+
+พอมองอะไรไม่เห็นทำให้ขาดสัมผัสที่สำคัญไปทำให้รู้สึกไม่ปลอดภัยก็เป็นไปตามธรรมชาติ
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+SomeThing
+ 
+ on 10 October 2020 - 12:01 
+#1179942
+
+    
+Reply to:1179929
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+ตามนี้เลยครับ เด็กก็คือเด็กนะ ยังคิดไม่ได้ขนาดนีหรอก
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+ppJr
+ 
+ on 10 October 2020 - 12:25 
+#1179944
+
+    
+Reply to:1179942
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+เด็กแยกเรื่องวิทยาศาสตร์กับอติตัวเองไม่ออกก็ต้องเข้าใจ
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    By: 
+xnone
+ 
+ on 10 October 2020 - 09:52 
+#1179916
+
+  
+
+  
+
+  
+
+      
+
+    
+  
+
+    
+ยังสงสัยอยู่
+
+ว่า Dr Disrespect โดนแบนเพราะอะไร
+
+
+      
+
+
+
+
+Log in
+ or 
+register
+ to post comments
+
+
+
+
+
+
+
+
+  
+
+
+
+  
+
+
+
+  
+
+	
+		
+
+
+
+	
+
+		
+
+
+	
+
+	
+
+
+	
+
+	
+
+
+		
+
+		
+
+		  
+
+    
+
+
+    
+  
+
+    
+
+
+
+<!--//--><![CDATA[// ><!--
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561862396899-0'); });
+  
+//--><!]]>
+
+
+  
+
+
+
+
+
+    
+sign in
+
+
+    
+
+    
+
+        
+ลงทะเบียน
+
+        
+ลืมรหัสผ่าน
+
+    
+
+    
+
+    
+
+    
+
+    
+
+        
+Username: 
+*
+
+        
+
+    
+
+    
+
+        
+Password: 
+*
+
+        
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+    
+
+
+  
+
+		
+
+		
+
+		
+		
+
+		
+
+
+				
+
+		
+
+		  
+
+    
+
+
+    
+Blognone Jobs Premium
+
+  
+  
+
+    
+
+        
+  
+  
+      
+
+        
+
+      
+  
+        
+
+  
+
+  
+
+    
+Software Engineer
+
+    
+
+      
+
+        ฿20,000 - ฿50,000
+      
+
+      
+NTBX
+
+      
+       - 
+      
+ปากเกร็ด นนทบุรี
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Software Engineer - Mobile or Web
+
+    
+
+      
+
+        ฿25,000 - ฿40,000
+      
+
+      
+DailiTech
+
+      
+       - 
+      
+สาทร กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Full Stack Developer
+
+    
+
+      
+
+        ฿25,000 - ฿45,000
+      
+
+      
+Finnomena.Co.,Ltd.
+
+      
+       - 
+      
+บางรัก กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Frontend Developer
+
+    
+
+      
+
+        ฿35,000 - ฿80,000
+      
+
+      
+Data Wow Co.,Ltd
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Senior / Middle Developer
+
+    
+
+      
+
+        ฿30,000 - ฿80,000
+      
+
+      
+T2P Company Limited
+
+      
+       - 
+      
+วัฒนา กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Business Development Manager
+
+    
+
+      
+
+        ฿55,000 - ฿65,000
+      
+
+      
+Razer Inc.
+
+      
+       - 
+      
+ยานนาวา กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Backend Developer
+
+    
+
+      
+
+        ฿25,000 - ฿100,000
+      
+
+      
+Fillgoods
+
+      
+       - 
+      
+สาทร กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Front-end Developer ( 3+ years Experiences)
+
+    
+
+      
+
+        ฿35,000 - ฿70,000
+      
+
+      
+H LAB
+
+      
+       - 
+      
+ปทุมวัน กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+UI Designer
+
+    
+
+      
+
+        ฿20,000 - ฿50,000
+      
+
+      
+NTBX
+
+      
+       - 
+      
+ปากเกร็ด นนทบุรี
+
+      
+    
+
+  
+
+
+  
+  
+
+  
+
+      
+  
+        
+
+  
+
+  
+
+    
+Senior Technical Project Manager
+
+    
+
+      
+
+        ฿70,000 - ฿100,000
+      
+
+      
+Backyard
+
+      
+       - 
+      
+สาทร กรุงเทพมหานคร
+
+      
+    
+
+  
+
+
+  
+  
+
+    
+
+  
+  
+  
+  
+      
+
+      
+ลงประกาศ
+
+    
+
+  
+  
+
+  
+
+
+
+
+
+
+    
+Brand Inside
+
+  
+  
+
+    
+กลุ่มเจมาร์ทส่งแคมเปญจ่าย 500 บาทได้มือถือกลับบ้าน ตั้งเป้ายอดขาย 10,000 เครื่อง/เดือน
+
+
+
+
+ทำความรู้จัก “Quad” ภาคี 4 ฝ่ายต้านจีน: สหรัฐฯ ญี่ปุ่น อินเดีย และออสเตรเลีย
+
+
+
+
+ธนาคารกลางญี่ปุ่นเตรียมทดสอบสกุลเงินดิจิทัลปีหน้า หลังเอกชน-สถาบันการเงินขอให้ทดสอบมากขึ้นเรื่อยๆ
+
+
+
+
+เส้นทางสู่ Better Work Life Balance ตามสไตล์พี่รุตม์ Head of People LINE MAN Wongnai
+
+
+
+
+WarnerMedia ไม่ไหว เตรียมปรับโครงสร้างปลดพนักงานนับพันตำแหน่ง หวังลดต้นทุนให้ได้ 20%
+
+
+
+
+More
+  
+
+
+
+
+
+
+    
+Partners
+
+  
+  
+
+    
+Apple TV+ ประกาศวันฉาย “Dickinson” ซีซันสอง พร้อมเดินหน้าถ่ายทำซีซัน 3 ต่อ
+
+
+
+
+Apple อาจประกาศวันเปิดขาย iPad Air 4 ในงาน Event 13 ต.ค. นี้
+
+
+
+
+AirPods Studio, AirTags อาจยังไม่เปิดตัวในงาน Event 13 ต.ค. นี้
+
+
+
+
+ทรู ปรับโฉมชุดยูนิฟอร์มของพนักงานทรูช็อป แบบเป็นมิตรกับสิ่งแวดล้อม 100%
+
+
+
+
+เปิดตัวแล้ว Samsung Lifestyle Store แห่งแรกในไทย แห่งที่ 3 ในเอเชีย
+
+
+
+
+More
+  
+
+
+
+
+
+
+    
+Forum
+
+  
+  
+
+    
+
+        
+  
+  
+      
+
+      
+    
+          
+  
+  
+        
+ขอความช่วยเหลือครับพอจะหาบอร์ดไมโครบิต ที่สั่งได้เร็วๆที่ไหนได้บ้างครับ
+  
+
+          
+  
+  
+        
+เวนเดอร์ หรือ เอาซอร์ส พัฒนาระบบให้องค์กร ที่ผมเจอจะอารมณ์แบบนี้
+  
+
+          
+  
+  
+        
+สอบถามเกี่ยวกับการสมัครงานกับตำแหน่งที่ตำ่กว่าประกาศรับไว้
+  
+
+          
+  
+  
+        
+ติดตั้งหลาย ๆ  software server ลงใน 1 container ของ docker ทำได้ไหมครับ
+  
+
+          
+  
+  
+        
+รบกวนขอคำแนะนำข่าวที่เขียนหน่อยครับ
+  
+
+          
+  
+  
+        
+สอบถามเกี่ยวกับ Fonts ใน Mackbook Pro
+  
+
+          
+  
+  
+        
+ชาว Blogone ใช้ fractional shares ในไทย เจ้าไหน กันคับ
+  
+
+          
+  
+  
+        
+Xcode on MacOS มันขึ้นให้ update ผมไม่กล้าอัพอ่ะครับ กลัวติดปัญหา
+  
+
+          
+  
+  
+        
+ต้องการทำเว็บประมาณนี้ ต้องใช้งบเท่าไหร่ครับ และพอจะหาคนทำที่ไว้ใจได้ได้จากที่ไหน
+  
+
+          
+  
+  
+        
+ถามคนทำงานจริงด้าน DevOps และใช้งานจริงใน Production
+  
+
+      
+    
+
+  
+  
+  
+  
+  
+  
+
+  
+
+
+
+
+
+
+    
+Blognone on Facebook
+
+  
+  
+
+    
+
+
+
+
+Blognone
+
+
+
+
+
+  
+
+
+
+  
+
+		
+
+		
+
+		
+	
+
+	
+
+
+
+
+
+
+
+
+
+
+	
+
+		  
+
+    
+
+
+    
+About Blognone
+
+  
+  
+
+    
+
+
+About Us
+, 
+History
+
+
+Careers
+
+
+Statistics
+
+
+Become Member
+
+
+Writing Guideline
+, 
+Glossary
+
+
+Contact Us
+
+
+Privacy Policy
+
+
+
+  
+
+
+
+
+
+
+    
+Other Version
+
+  
+  
+
+    
+
+
+RSS Feed
+
+
+Apps
+
+
+Twitter
+, 
+Facebook
+, 
+Google+
+, 
+YouTube
+
+
+
+
+Blognone in Other Forms
+
+  
+
+
+
+
+
+
+    
+Copyright Notice
+
+  
+  
+
+    
+Creative Commons Attribution 3.0
+
+©2004-2019
+
+
+Blognone.com is owned and operated by Blognone Co., Ltd. (
+LinkedIn Profile
+)
+
+
+Blognone is a subsidiary company of 
+wongnai.com
+
+  
+
+
+
+  
+
+	
+
+	
+
+
+
+
+
+        
+
+
+
+
+
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+
+
+
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95793-3', 'auto');
+  ga('send', 'pageview');
+
+
+
+
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1702908339970395');
+fbq('track', "PageView");
+
+
+
+
+
+
+
+function move_login_block() {
+    login_box = document.querySelector("#block-user-login");
+    content_block = document.querySelector("#content");
+    content_block.insertBefore(login_box, content_block.firstChild);
+}
+
+function main_ui () {
+  if (window.matchMedia("(max-width:1000px)").matches) {
+      var str = "<a href=\"javascript:void(0)\" onclick=\"move_login_block();\">Login</a>";
+      var list_item = document.createElement('li');
+      list_item.innerHTML = str;
+      menu = document.querySelector("#main-menu-links");
+      menu.appendChild(list_item);
+  }
+  openid = document.querySelectorAll(".openid-link a");
+  if (openid.length == 1) {
+     openid[0].click() 
+  }
+};
+
+function rand_jobs() {
+  var joblist = document.querySelector("#block-views-jobs-blognone-com-block .view-content");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+}
+
+function limit_jobs() {
+  var MAX_ITEM = 20;
+  var joblist = document.querySelector("#block-views-jobs-premium-block-1 ul");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+  if (joblist.children.length > MAX_ITEM) {
+    for (var i = MAX_ITEM; i < joblist.children.length; i++) {
+      joblist.children[i].style.display = "none";
+    }
+  }
+}
+
+jQuery(document).ready(function() {
+  main_ui();
+  limit_jobs();
+  rand_jobs();
+});
+
+
+
+
+
