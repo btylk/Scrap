@@ -2,7 +2,7 @@ import requests
  
 url = "https://api.aiforthai.in.th/bully"
  
-text = 'รกโลก'
+text = 'เสร่อ'
  
 data = {'text':text}
  

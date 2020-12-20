@@ -1,0 +1,378 @@
+var THEME_ROOT = 'https://droidsans.com/wp-content/themes/flex-mag-child';
+เปิดตัว OnePlus Nord N10 5G LINE FRIENDS Special Box Set สุดพิเศษ ราคา 11,490 บาท มีขายแค่ที่ไทยเท่านั้น | DroidSans
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://droidsans.com/#organization","name":"Droidsans","url":"https://droidsans.com/","sameAs":["https://www.facebook.com/droidsans/","https://www.youtube.com/droidsans","https://twitter.com/droidsans"],"logo":{"@type":"ImageObject","@id":"https://droidsans.com/#logo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2018/09/droidsans-logo-190x36e.png","width":600,"height":256,"caption":"Droidsans"},"image":{"@id":"https://droidsans.com/#logo"}},{"@type":"WebSite","@id":"https://droidsans.com/#website","url":"https://droidsans.com/","name":"DroidSans","description":"The First Android Community in Thailand","publisher":{"@id":"https://droidsans.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://droidsans.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2020/12/oneplus-nord-n10-5g-line-friends-special-box-set-announced-h.jpg","width":1200,"height":628},{"@type":"WebPage","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage","url":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/","name":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19 | DroidSans","isPartOf":{"@id":"https://droidsans.com/#website"},"primaryImageOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-17T12:41:53+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/"]}]},{"@type":"Article","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#article","isPartOf":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"author":{"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce"},"headline":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19","datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-17T12:41:53+00:00","mainEntityOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"commentCount":0,"publisher":{"@id":"https://droidsans.com/#organization"},"image":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"keywords":"5G,OnePlus,OnePlus Nord N10 5G,OnePlus Nord N10 5G LINE FRIENDS Special Box Set","articleSection":"News","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#respond"]}]},{"@type":["Person"],"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce","name":"Thanapoom","image":{"@type":"ImageObject","@id":"https://droidsans.com/#personlogo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2016/10/default_avatar-square-96x96.png","caption":"Thanapoom"}}]}
+/* <![CDATA[ */ var cnArgs = {"ajaxUrl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","nonce":"b7a2c4a2c1","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"}; /* ]]> */
+/* <![CDATA[ */ var fbl = {"ajaxurl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","site_url":"https:\/\/droidsans.com","scopes":"email,public_profile","appId":"1396066397278173","l18n":{"chrome_ios_alert":"Please login into facebook and then click connect button again"}}; /* ]]> */
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '1042029715836189', {}, {
+    "agent": "wordpress-5.5.3-2.1.0"
+});
+fbq('track', 'PageView', []);
+if (window.addthis_product === undefined) { window.addthis_product = "wpp"; } if (window.wp_product_version === undefined) { window.wp_product_version = "wpp-6.2.6"; } if (window.addthis_share === undefined) { window.addthis_share = {}; } if (window.addthis_config === undefined) { window.addthis_config = {"data_track_clickback":true,"data_ga_property":"UA-338645-10","data_ga_social":true,"ui_atversion":300}; } if (window.addthis_plugin_info === undefined) { window.addthis_plugin_info = {"info_status":"enabled","cms_name":"WordPress","plugin_name":"Share Buttons by AddThis","plugin_version":"6.2.6","plugin_mode":"AddThis","anonymous_profile_id":"wp-0cd3e7bc11fec9a77644ec99b246d6c3","page_info":{"template":"posts","post_type":""},"sharing_enabled_on_post_via_metabox":false}; } 
+                    (function() {
+                      var first_load_interval_id = setInterval(function () {
+                        if (typeof window.addthis !== 'undefined') {
+                          window.clearInterval(first_load_interval_id);
+                          if (typeof window.addthis_layers !== 'undefined' && Object.getOwnPropertyNames(window.addthis_layers).length > 0) {
+                            window.addthis.layers(window.addthis_layers);
+                          }
+                          if (Array.isArray(window.addthis_layers_tools)) {
+                            for (i = 0; i < window.addthis_layers_tools.length; i++) {
+                              window.addthis.layers(window.addthis_layers_tools[i]);
+                            }
+                          }
+                        }
+                     },1000)
+                    }());
+var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-338645-10', 'auto');
+  ga('send', 'pageview');
+Home
+News
+App Reviews
+Device Review/Preview
+Droidsans Channel
+Marketplace
+Forums
+กฎกติกาการใช้งานเว็บ
+รู้จักกันหน่อย
+ร่วมงานกัน
+โฆษณา
+DroidSans
+App Reviews
+Device Review/Preview
+Droidsans Channel
+Brands
+Sign in
+Register
+News
+เปิดตัว OnePlus Nord N10 5G LINE FRIENDS Special Box Set สุดพิเศษ ราคา 11,490 บาท มีขายแค่ที่ไทยเท่านั้น
+By
+Thanapoom
+Posted on
+December 17, 2020
+View
+ 17
+บทความที่เกี่ยวข้อง
+CEO OnePlus คอนเฟิร์ม สมาร์ทโฟน 5G ของ OnePlus พร้อมเผยโฉมในเดือนพฤษภาคม 2019
+อีกหนึ่งกระแสที่กำลังจะมาแรงในปีหน้านอกจากสมาร์ทโฟนพับได้คือสมาร์ทโฟนที่รองรับเครือข่าย 5G ซึ่งหลายค่ายหลายแบรนด์นั้นวางแผนจะเปิดตัวและวางขายกันในช่วงปีหน้า OnePlus ก็เป็นอีกแบรนด์ที่มีเป้าหมายว่าจะปล่อยสมาร์ทโฟนที่รองรับ 5G ในยุโรปในช่วงปีหน้า ล่าสุด CEO ของ OnePlus อย่างคุณ Pete Lau ได้เปิดเผยถึงข้อมูลบางอย่างเกี่ยวกับสมาร์ทโฟน 5G ของ OnePlus แล้ว
+OnePlus 8 Pro เครื่องหิ้ว ยังไม่รองรับ 5G ในไทย ทั้ง ROM จีน และ ROM Global (กำลังทดสอบเพิ่มเติม)
+แฟนๆ OnePlus ที่กำลังรอคอย OnePlus 8 และ 8 Pro กันตอนนี้หลายๆ นอกจากประสิทธิภาพชิปเซ็ต และกล้องแล้ว หลายๆ คนน่าจะอยากเอามาใช้งาน 5G ซึ่งในไทยซึ่งเริ่มเปิดให้บริการกันแล้ว ทีมงานของ droidsans ได้ไปลองซื้อเครื่องหิ้วมาทดสอบ แต่ปรากฏว่าตัวเครื่องยังไม่รองรับ 5G ในประเทศไทย
+OnePlus คอนเฟิร์มสมาร์ทโฟนรุ่นใหม่ที่มีข่าว 5G นั้นยังไม่ใช่ OnePlus 7
+นอกจากสมาร์ทโฟนพับได้ สมาร์ทโฟนที่รองรับเครือข่าย 5G ก็เป็นอีกอย่างที่กำลังจะมา หลายๆ แบรนด์ก็เตรียมจะออกสมาร์ทโฟนที่รองรับ 5G ของตัวเองรวมไปถึง OnePlus ที่ได้ออกมาบอกแล้วว่าสมาร์ทโฟน 5G ที่มีข่าวออกมาในตอนนี้จะไม่ใช่ OnePlus 7 แน่นอน คาดว่าน่าจะเป็นไลน์สินค้าใหม่ของ OnePlus เลย
+ซีอีโอ OnePlus ยืนยัน OnePlus 8 series จะรองรับการใช้งาน 5G แต่ราคาอาจแพงขึ้นอีกเล็กน้อย
+หากใครที่ติดตามข่าวสารของแบรนด์ OnePlus อยู่บ่อยๆ น่าจะคุ้นชินกับชื่อของ Pete Lau ซีอีโอคนดังของบริษัทเป็นอย่างดี เพราะเวลามีงานเปิดตัว เขามักจะเป็นหนึ่งในพิธีกรออกมาเล่าสรรพคุณ บรรยายฟีเจอร์ต่างๆ ฯลฯ โดยล่าสุดคุณ Pete ออกมาคอนเฟิร์มแล้วว่า OnePlus 8 series จะรองรับการใช้งาน 5G ทุกรุ่น
+เนื่องในโอกาสครบรอบ 7 ปี OnePlus จัดเซอร์ไพรส์เอาใจ ๆ แฟน ๆ เปิดตัว 
+Nord N10 5G LINE FRIENDS Special Box Set
+ ที่มีวางจำหน่ายเฉพาะแค่ในประเทศไทยเท่านั้น เอ็กซ์คลูซีฟสุด ๆ แถมราคาก็ไม่แพงอย่างที่คิด 
+แค่ 11,490 บาท เท่านั้นเอง
+ตัวเครื่องของ 
+OnePlus Nord N10 5G LINE FRIENDS Special Box Set
+ จะไม่มีอะไรแตกต่างไปจากเวอร์ชั่นปกติ มาพร้อมกับจอภาพ IPS LCD สีสันสุดแจ่ม ขนาด 6.49 นิ้ว บนสัดส่วน 20:9 ใหญ่เต็มมือ เสพคอนเทนต์เต็มตา ลื่นไหลสุด ๆ ด้วยอัตรารีเฟรช 90Hz
+OnePlus Nord N10 5G
+ มีกล้องหลังจัดเต็มถึง 4 ตัว ประกอบด้วย กล้องหลัก 
+64MP
+ + กล้องอัลตร้าไวด์ 
+8MP
+ + กล้องมาโคร 
+2MP
+ + กล้องโมโนโครม 
+2MP
+ ตอบโจทย์การถ่ายภาพทุกสถานการณ์
+ภายในถูกขับเคลื่อนด้วย 
+Snapdragon 690
+ ชิปจาก Qualcomm พ่วงด้วย 
+RAM 6GB
+ และ 
+ROM 128GB
+ หากไม่จุใจก็สามารถใส่ microSD card เพิ่มได้อีก สูงสุด 512GB ในขณะที่แบตเตอรี่นั้นมีความจุเท่ากับ 4300mAh ชาร์จไวติดเทอร์โบด้วยเทคโนโลยี 
+Warp Charge 30T
+ ชาร์จแบตจาก 0-70% ได้ในเวลาเพียง 30 นาที
+สเปค ONEPLUS NORD N10 5G
+จอภาพ :
+– ขนาด 6.49 นิ้ว ชนิด IPS LCD 16.7 ล้านสี
+ – ความละเอียด 1080 × 2400 พิกเซล (405 PPI)
+ – สัดส่วน 20:9
+ – อัตรารีเฟรช 90Hz
+ชิป :
+ Qualcomm Snapdragon 690
+หน่วยความจำ :
+– RAM 6GB (LP-DDR4X)
+ – ROM 128GB (UFS 2.1)
+ – รองรับ microSD card สูงสุด 512GB
+กล้องหลัง :
+ – Wide 64MP (ƒ/1.79), EIS
+ – Ultra-wide: 8MP (ƒ/2.25), มุมกว้าง 119 องศา
+ – Macro 2MP (ƒ/2.4)
+ – Monochrome 2MP (ƒ/2.4)
+กล้องหน้า :
+ 16MP (ƒ/2.05), EIS
+เสียง :
+ ลำโพงสเตอรีโอ, แจ็กหูฟัง 3.5 มม.
+เครือข่าย :
+การเชื่อมต่อ :
+ – Wi-Fi 802.11 a/b/g/n/ac
+ – Bluetooth 5.1
+ – NFC
+ – GPS, GLONASS, Galileo, Beidou, A-GPS
+ – USB Type-C
+เซนเซอร์ :
+ Fingerprint, accelerometer, electronic compass, gyroscope, ambient light, proximity, SAR
+แบตเตอรี่ :
+ 4300mAh, รองรับชาร์จไว Warp Charge 30T (5V/6A)
+ระบบปฏิบัติการ :
+ OxygenOS บน Android 10
+ขนาด :
+ 163 × 74.7 × 8.95 มม.
+น้ำหนัก :
+ 190 กรัม
+สี :
+◉
+ Midnight Ice
+สำหรับสิ่งที่ 
+OnePlus Nord N10 5G
+ เวอร์ชั่นพิเศษนี้แตกต่างออกไป คือ แพ็กเกจสุดสวยลายพิเศษและอุปกรณ์เสริมในธีม LINE FRIENDS อันได้แก่ เคส แหวนติดมือถือ และบัตรของขวัญ LINE point จำนวน 200 แต้ม
+อุปกรณ์ภายในกล่อง OnePlus Nord N10 5G LINE FRIENDS Special Box Set
+OnePlus Nord N10 5G
+เคส LINE FRIENDS
+แหวนติดมือถือ LINE FRIENDS
+บัตรของขวัญ LINE POINTS จำนวน 200 แต้ม
+ราคาและการวางจำหน่าย
+OnePlus ประเทศไทย เปิดราคาของ 
+Nord N10 5G LINE FRIENDS Special Box Set
+ ออกมาที่ 11,490 บาท สามารถหาซื้อได้ที่ผู้ให้บริการเครือข่ายมือถือ ร้านค้าออนไลน์ และตัวแทนจำหน่าย ดังนี้
+AIS
+dtac
+TrueMove H
+TG FONE
+COM7
+Lazada
+Shopee
+JD Central
+Thisshop
+ที่มา : อีเมลประชาสัมพันธ์
+5G
+OnePlus
+OnePlus Nord N10 5G
+OnePlus Nord N10 5G LINE FRIENDS Special Box Set
+บทความที่เกี่ยวข้อง
+CEO OnePlus คอนเฟิร์ม สมาร์ทโฟน 5G ของ OnePlus พร้อมเผยโฉมในเดือนพฤษภาคม 2019
+อีกหนึ่งกระแสที่กำลังจะมาแรงในปีหน้านอกจากสมาร์ทโฟนพับได้คือสมาร์ทโฟนที่รองรับเครือข่าย 5G ซึ่งหลายค่ายหลายแบรนด์นั้นวางแผนจะเปิดตัวและวางขายกันในช่วงปีหน้า OnePlus ก็เป็นอีกแบรนด์ที่มีเป้าหมายว่าจะปล่อยสมาร์ทโฟนที่รองรับ 5G ในยุโรปในช่วงปีหน้า ล่าสุด CEO ของ OnePlus อย่างคุณ Pete Lau ได้เปิดเผยถึงข้อมูลบางอย่างเกี่ยวกับสมาร์ทโฟน 5G ของ OnePlus แล้ว
+OnePlus 8 Pro เครื่องหิ้ว ยังไม่รองรับ 5G ในไทย ทั้ง ROM จีน และ ROM Global (กำลังทดสอบเพิ่มเติม)
+แฟนๆ OnePlus ที่กำลังรอคอย OnePlus 8 และ 8 Pro กันตอนนี้หลายๆ นอกจากประสิทธิภาพชิปเซ็ต และกล้องแล้ว หลายๆ คนน่าจะอยากเอามาใช้งาน 5G ซึ่งในไทยซึ่งเริ่มเปิดให้บริการกันแล้ว ทีมงานของ droidsans ได้ไปลองซื้อเครื่องหิ้วมาทดสอบ แต่ปรากฏว่าตัวเครื่องยังไม่รองรับ 5G ในประเทศไทย
+OnePlus คอนเฟิร์มสมาร์ทโฟนรุ่นใหม่ที่มีข่าว 5G นั้นยังไม่ใช่ OnePlus 7
+นอกจากสมาร์ทโฟนพับได้ สมาร์ทโฟนที่รองรับเครือข่าย 5G ก็เป็นอีกอย่างที่กำลังจะมา หลายๆ แบรนด์ก็เตรียมจะออกสมาร์ทโฟนที่รองรับ 5G ของตัวเองรวมไปถึง OnePlus ที่ได้ออกมาบอกแล้วว่าสมาร์ทโฟน 5G ที่มีข่าวออกมาในตอนนี้จะไม่ใช่ OnePlus 7 แน่นอน คาดว่าน่าจะเป็นไลน์สินค้าใหม่ของ OnePlus เลย
+ซีอีโอ OnePlus ยืนยัน OnePlus 8 series จะรองรับการใช้งาน 5G แต่ราคาอาจแพงขึ้นอีกเล็กน้อย
+หากใครที่ติดตามข่าวสารของแบรนด์ OnePlus อยู่บ่อยๆ น่าจะคุ้นชินกับชื่อของ Pete Lau ซีอีโอคนดังของบริษัทเป็นอย่างดี เพราะเวลามีงานเปิดตัว เขามักจะเป็นหนึ่งในพิธีกรออกมาเล่าสรรพคุณ บรรยายฟีเจอร์ต่างๆ ฯลฯ โดยล่าสุดคุณ Pete ออกมาคอนเฟิร์มแล้วว่า OnePlus 8 series จะรองรับการใช้งาน 5G ทุกรุ่น
+Leave a Reply
+Cancel
+You must be 
+logged in
+ to post a comment.
+googletag.cmd.push(function() {
+    googletag.defineSlot('/102233444/AllPage300x250', [300, 250], 'div-gpt-ad-1484501014670-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484501014670-0'); });
+เปรียบเทียบ Xiaomi Mi 10T Pro กับ iPhone 12 Pro Max มือถือเรือธงสองค่าย ราคาต่างกันเกือบ 3 เท่า สเปคต่างกันมากน้อยแค่ไหน
+ต้องบอกเลยว่า Xiaomi Mi 10T Pro หลังจากที่เปิดตัวมากระแสแรงมาก ๆ เพราะด้วยราคาเทียบกับสเปคแล้วถือว่าคุ้มสุด ๆ ทั้งใช้ชิปเซ็ตเป็น Snapdragon 865 รองรับ 5G...
+29.0K
+12
+Samsung จัดโปรโหด Galaxy S10+, S20, S20+ และ Z Flip เครื่องเปล่าราคาพิเศษ ลดสูงสุด 70% ผ่อน 0% สูงสุด 15 เดือน
+Samsung มอบเซอร์ไพรส์ใหญ่ส่งท้ายปี ยกขบวนสินค้ามาจัดโปรโมชั่น ลดราคาสูงสุดถึง 70% แถมผ่อน 0% ได้อีก 15 เดือน เครื่องใหม่มือหนึ่ง ไม่ติดสัญญา ประกันเต็ม 1...
+18.8K
+13
+Samsung เตรียมเปิดตัว Galaxy S21 Series ในวันที่ 14 มกราคม 2021 นี้ พร้อมวางจำหน่ายภายใน 2 สัปดาห์
+หลังจากที่มีข้อมูลของ Galaxy S21 Series หลุดออกมามากมาย พร้อมคลิปทีเซอร์ออกมาเรียกน้ำย่อยกันไปบ้างแล้ว ล่าสุดได้มีข้อมูลชุดใหม่ของวันเปิดตัวมือถือซีรีส์เรือธงรุ่นดังกล่าวแล้วคือวันที่ 14 มกราคม 2021 โดยเป็นข้อมูลที่เชื่อถือได้เลยล่ะ เพราะเป็นการยืนยันกมาจากร้านจำหน่ายสินค้า Samsung สาขาที่ใหญ่ที่สุดในประเทศอินเดียนั่นเองครับ
+14.2K
+2
+realme X7 Pro 5G เตรียมเดินทางมาเปิดตัวในประเทศไทย วันที่ 17 ธันวาคม 2020 นี้
+หลังจากที่มีรายชื่อผ่านการรับรองจาก กสทช.ไปเมื่อราว ๆ 2 เดือนก่อน ในที่สุด realme X7 Pro 5G ก็ได้ฤกษ์ประกาศวันเปิดตัวในประเทศไทยอย่างเป็นทางการแล้ว ในวันที่ 17 ธ.ค....
+13.2K
+7
+Mi Watch และ Mi Watch Lite เริ่มวางจำหน่ายในประเทศไทยแล้ว ราคาเริ่มต้นเพียง 1,490 บาท
+สายสุขภาพ และชอบของคุ้มๆ ห้ามพลาด! เพราะวันนี้ (12 ธันวาคม 2563) สมาร์ทวอทช์ราคาน่าคบหาทั้ง Mi Watch และ Mi Watch Lite...
+11.4K
+1
+DroidSans
+googletag.cmd.push(function() {
+    googletag.defineSlot('/102233444/AllPage300x600', [300, 600], 'div-gpt-ad-1484501580732-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484501580732-0'); });
+ถ้าใครได้งัดแงะแอนดรอยด์ในระดับระบบปฏิบัติการคงจะรู้จักมันแล้วเพราะ DroidSans จริงๆแล้วเป็นชื่อของฟอนต์ใน Android นั่นเอง ทางเราเห็นว่ามันเป็นชื่อที่เหมาะสมแล้วสำหรับการสังคมนักพัฒนา เพราะเจ้าฟอนต์ DroidSans นี่แหละที่ทำให้กลุ่มนักพัฒนาหลายต่อหลายท่านมาเจอกัน ^^
+ยังไงก็ขอให้ทุกท่านมีความสุขกับการแบ่งปันในบ้านหลังนี้กันนะจ๊ะ
+News
+App Reviews
+Device Review/Preview
+Droidsans Channel
+Forums
+Marketplace
+กฎกติกาการใช้งานเว็บ
+รู้จักกันหน่อย
+ร่วมงานกัน
+โฆษณา
+Latest News
+HUAWEI Film Awards 2020 ประกวดภาพยนตร์สั้นที่ถ่ายทำด้วยมือถือ HUAWEI ชิงเงินรางวัลกว่า 3 แสนบาท
+เปิดตัว OnePlus Nord N10 5G LINE FRIENDS Special Box Set สุดพิเศษ ราคา 11,490 บาท มีขายแค่ที่ไทยเท่านั้น
+ลือ SYNNEX เตรียมเป็นตัวแทนจำหน่าย Nintendo ของประเทศไทย เร็วๆ นี้
+กำลังฮิต…แต่ง IG Story เกร๋ๆ ด้วยการวาดภาพปกอัลบั้มเพลง ที่แชร์มาจาก Spotify
+SBC EASY ระงับการย้ายเครื่องด้วยตนเองชั่วคราว หลังมิจฉาชีพส่งลิงก์ธนาคารปลอมผ่าน SMS ระบาดหนัก
+Our Team
+ octopatr 
+ Gimme 
+ kengkawiz 
+ Rice Cooker 
+ laruku 
+ akexorcist 
+ HD_Mania 
+ อยากเป็นมั่ง 
+©2004-2017 Droidsans. Droidsans.com is owned and operated by Droidsans Co., Ltd.
+To Top
+window.fbAsyncInit = function() {
+    FB.init({
+      appId      : '1396066397278173',
+      xfbml      : true,
+      version    : 'v2.8'
+    });
+    FB.AppEvents.logPageView();
+  };
+  (function(d, s, id){
+     var js, fjs = d.getElementsByTagName(s)[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement(s); js.id = id;
+     js.src = "//connect.facebook.net/en_US/sdk.js";
+     fjs.parentNode.insertBefore(js, fjs);
+   }(document, 'script', 'facebook-jssdk'));
+WebFontConfig = {
+    google: { families: [ 'Kanit:400,600' ] }
+  };
+  (function(d) {
+      var wf = d.createElement('script'), s = d.scripts[0];
+      wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js';
+      wf.async = true;
+      s.parentNode.insertBefore(wf, s);
+   })(document);
+pa_o = {"id":1564325,"k":"23aaef069276a7c763b78574fd61f2b1"};
+    (function(d) {
+        var wf = d.createElement('script'), s = d.scripts[0];
+        wf.src = 'https://images.droidsans.com/wp-content/themes/flex-mag-child/js/pa.js';
+        wf.async = true;
+        s.parentNode.insertBefore(wf, s);
+    })(document);
+jQuery(document).ready(function($) {
+
+	// Back to Top Button
+    	var duration = 500;
+    	$('.back-to-top').click(function(event) {
+          event.preventDefault();
+          $('html, body').animate({scrollTop: 0}, duration);
+          return false;
+	});
+
+	// Main Menu Dropdown Toggle
+	$('.menu-item-has-children a').click(function(event){
+	  event.stopPropagation();
+	  location.href = this.href;
+  	});
+
+	$('.menu-item-has-children').click(function(){
+    	  $(this).addClass('toggled');
+    	  if($('.menu-item-has-children').hasClass('toggled'))
+    	  {
+    	  $(this).children('ul').toggle();
+	  $('.fly-nav-menu').getNiceScroll().resize();
+	  }
+	  $(this).toggleClass('tog-minus');
+    	  return false;
+  	});
+
+	// Main Menu Scroll
+	$(window).load(function(){
+	  $('.fly-nav-menu').niceScroll({cursorcolor:"#888",cursorwidth: 7,cursorborder: 0,zindex:999999});
+	});
+
+	  	$(".comment-click-1564325").on("click", function(){
+  	  $(".com-click-id-1564325").show();
+	  $(".disqus-thread-1564325").show();
+  	  $(".com-but-1564325").hide();
+  	});
+	
+
+$(window).load(function() {
+  // The slider being synced must be initialized first
+  $('.post-gallery-bot').flexslider({
+    animation: "slide",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    itemWidth: 80,
+    itemMargin: 10,
+    asNavFor: '.post-gallery-top'
+  });
+
+  $('.post-gallery-top').flexslider({
+    animation: "fade",
+    controlNav: false,
+    animationLoop: true,
+    slideshow: false,
+    	  prevText: "&lt;",
+          nextText: "&gt;",
+    sync: ".post-gallery-bot"
+  });
+});
+
+});
+var renderInvisibleReCaptcha = function() {
+
+    for (var i = 0; i < document.forms.length; ++i) {
+        var form = document.forms[i];
+        var holder = form.querySelector('.inv-recaptcha-holder');
+
+        if (null === holder) continue;
+		holder.innerHTML = '';
+
+         (function(frm){
+			var cf7SubmitElm = frm.querySelector('.wpcf7-submit');
+            var holderId = grecaptcha.render(holder,{
+                'sitekey': '6LcZCRkUAAAAAPRhwD9h18dBg3EIHEGxnCCj9RoL', 'size': 'invisible', 'badge' : 'inline',
+                'callback' : function (recaptchaToken) {
+					if((null !== cf7SubmitElm) && (typeof jQuery != 'undefined')){jQuery(frm).submit();grecaptcha.reset(holderId);return;}
+					 HTMLFormElement.prototype.submit.call(frm);
+                },
+                'expired-callback' : function(){grecaptcha.reset(holderId);}
+            });
+
+			if(null !== cf7SubmitElm && (typeof jQuery != 'undefined') ){
+				jQuery(cf7SubmitElm).off('click').on('click', function(clickEvt){
+					clickEvt.preventDefault();
+					grecaptcha.execute(holderId);
+				});
+			}
+			else
+			{
+				frm.onsubmit = function (evt){evt.preventDefault();grecaptcha.execute(holderId);};
+			}
+
+
+        })(form);
+    }
+};
+/* <![CDATA[ */ var DR = {"signin":"https:\/\/droidsans.com\/signin","register":"https:\/\/droidsans.com\/register","sitekey":"6LcZCRkUAAAAAPRhwD9h18dBg3EIHEGxnCCj9RoL","ajaxUrl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php"}; /* ]]> */
+/* <![CDATA[ */ var jpsd = {"ajaxurl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","no_name":"Please input template name.","site_key":"","re_type":"","re_message":"Ups... reCaptcha identified you as a bot. If you are not, please reload and try again.","Not_valid_phone_number":"Not valid phone number","Not_valid_email":"Not valid email","Error_sending_notification":"Error sending notification message, but dont worry, We saved Your data securelly. Thank you.","validation":"File %2$s exceeds the allowed file size of %1$s MB.","max_filesize":"10"}; /* ]]> */
+_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.8.1',blog:'122428993',post:'1564325',tz:'7',srv:'droidsans.com'} ]);
+	_stq.push([ 'clickTrackerInit', '122428993', '1564325' ]);
+พวกเรามีการใช้ Cookies เก็บข้อมูลเพื่อพัฒนาประสบการณ์ใช้งาน ถ้าคุณอ่านหรือใช้งานต่อ เราถือว่าคุณโอเคนะ
+Ok

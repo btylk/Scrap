@@ -1,0 +1,833 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#" lang="en" xml:lang="en" dir="ltr">
+
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://www.blognone.com/sites/default/files/externals/9d9475b026d3a9a69abf39c72550f965.jpg" />
+<meta name="twitter:site" content="@blognone" />
+<meta name="twitter:title" content="เผย GameStop ได้ส่วนแบ่งจากไมโครซอฟท์ แม้ลูกค้า Xbox ซื้อเกมแบบดิจิทัลก็ตาม" />
+<link rel="amphtml" href="https://amp.blognone.com/node/119064" />
+<meta name="twitter:description" content="สัปดาห์ที่แล้วมีข่าว ร้านขายเกม GameStop เซ็นสัญญาเป็นพาร์ทเนอร์กับไมโครซอฟท์ โดยครอบคลุมทั้งการใช้ระบบคลาวด์ ฮาร์ดแวร์ Surface และซอฟต์แวร์" />
+<meta property="og:image" content="https://www.blognone.com/sites/default/files/externals/9d9475b026d3a9a69abf39c72550f965.jpg" />
+<link rel="shortlink" href="/node/119064" />
+<link rel="openid2.provider" href="https://www.blognone.com/openid/provider" />
+<meta name="Generator" content="Drupal 7 (http://drupal.org)" />
+<link rel="openid.server" href="https://www.blognone.com/openid/provider" />
+<meta http-equiv="X-XRDS-Location" content="https://www.blognone.com/xrds" />
+<link rel="canonical" href="/node/119064" />
+<meta http-equiv="X-Yadis-Location" content="https://www.blognone.com/xrds" />
+<link rel="shortcut icon" href="https://www.blognone.com/sites/default/files/bn-favicon.png" type="image/png" />
+<link rel="icon" sizes="192x192" href="/sites/all/themes/blognone42/images/touch-icon-192.png">
+<link rel="icon" sizes="128x128" href="/sites/all/themes/blognone42/images/touch-icon-128.png">
+    <title>เผย GameStop ได้ส่วนแบ่งจากไมโครซอฟท์ แม้ลูกค้า Xbox ซื้อเกมแบบดิจิทัลก็ตาม | Blognone</title>
+	<link type="text/css" rel="stylesheet" href="https://www.blognone.com/sites/default/files/css/css_xE-rWrJf-fncB6ztZfd2huxqgxu4WO-qwma6Xer30m4.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.blognone.com/sites/default/files/css/css_IITlWl4Xzg9ftscoSKw73vhU4Xtw6-qjkX0o1KAMc4g.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.blognone.com/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8aAwsApndP4GZ9RuToPy3-Fk.css" media="all" />
+<link type="text/css" rel="stylesheet" href="https://www.blognone.com/sites/default/files/css/css_qooXOHnh6cBQ60WNkUBLp8s9GC_mAyiWRN2tjNOGxu4.css" media="all" />
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta property="fb:admins" content="692832951" />
+<!--<meta property="og:image" content="https://www.blognone.com/sites/all/files/blognone-thumb.png"/>-->
+<!-- +1 Button -->
+<!--<script type="text/javascript" src="/sites/all/themes/blognone42/imported/plusone.js"></script>-->
+<!-- Google+ Badge -->
+<link href="https://plus.google.com/107336577053741947976" rel="publisher" />
+	<script type="text/javascript" src="https://www.blognone.com/sites/default/files/js/js_Ua98zxjH9I2U2rTee9IFt0Bz0daoaQQTSnaDxCxt3Kc.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blognone42","theme_token":"2o9TfRwn1Y8F-QaBxaxZqg2s-Bpv7-bSsrDQG9Uwb7w","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/blognone42\/css\/reset.css":1,"sites\/all\/themes\/blognone42\/css\/style.css":1,"sites\/all\/themes\/blognone42\/css\/resps.css":1}},"urlIsAjaxTrusted":{"\/node\/119064?destination=node\/119064":true}});
+//--><!]]>
+</script>
+
+<!--<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') +
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>-->
+
+<script async='async' src='https://www.googletagservices.com/tag/js/gpt.js'></script>
+<script>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+</script>
+
+<script type='text/javascript'>
+  googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+  addSize([780, 0], [728, 90]).
+  addSize([0, 0], [320, 50]).
+  build();
+
+	googletag.defineSlot('/121015634/blognone_leader_top', [728, 90], 'div-gpt-ad-1416143777472-0').defineSizeMapping(mapping).addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script>
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1479960323194-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+</script>
+
+<script type='text/javascript'>
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1429324800409-0').addService(googletag.pubads());
+   googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+ });
+</script>
+</head>
+<body class="html not-front not-logged-in no-sidebars page-node page-node- page-node-119064 node-type-blog" >
+    <div id="skip-link">
+        <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+    </div>
+        <div id="wrapper">
+
+<!-- header -->
+<div id="header">
+
+	<!-- header content -->
+	<div id="header-content">
+
+		<!-- logo -->
+		<div id="logo">
+		<a href="/" title="">
+			<img src="/sites/all/themes/blognone42/images/logo-white-2x.png" alt="" width="210" height="65" />
+		</a>
+		</div>
+		<!-- end logo -->
+	
+		<!-- header region -->
+		  <div class="region region-header">
+    <div id="block-block-55" class="block block-block">
+
+    
+  <div class="content">
+    <!-- blognone_leader_top --><div style="margin-left:10px;" id="div-gpt-ad-1416143777472-0">
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1416143777472-0'); });
+
+//--><!]]>
+</script></div>
+<!--<a href="http://www.idggs.com/netapp"><img style="margin-left:10px;" border="0" src="https://www.blognone.com/sites/default/files/netapp6.gif"></a>-->  </div>
+</div>
+  </div>
+		<!-- end header region -->
+
+	</div>
+	<!-- end header content -->
+	<div class="clear"></div>
+
+	<!-- navigation menu -->
+	<div id="navi-menu">
+		<div id="navi-menu-content">
+                        <div id="main-menu" class="navigation">
+                <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="inline links clearfix"><li class="menu-148 first"><a href="/feature" title="Feature Stories">Features</a></li>
+<li class="menu-147"><a href="/topics/interview" title="Interview, Question and Answer">Interview</a></li>
+<li class="menu-219"><a href="/forum" title="Discussion Forum">Forum</a></li>
+<li class="menu-222"><a href="https://jobs.blognone.com" title="Blognone Jobs">Jobs</a></li>
+<li class="menu-3345"><a href="/topics/blognone-workplace" title="Blognone Workplace">Workplace</a></li>
+<li class="menu-2706"><a href="https://jobs.blognone.com/companies" title="Tech Company Profiles">Company Profile</a></li>
+<li class="menu-2707 last"><a href="/node/22962" title="">Search</a></li>
+</ul>            </div> <!-- /#main-menu -->
+            		</div>
+	</div>
+	<!-- end navigation menu -->
+
+</div>
+<!-- end header -->
+<div class="clear"></div>
+
+<!-- content -->
+<div id="content">
+
+	<!-- main content -->
+	<div id="main-content">
+
+	
+          <div id="breadcrumb"><h2 class="element-invisible">You are here</h2><div class="breadcrumb"><a href="/">Home</a> » <a href="/blog">Blogs</a> » <a href="/blog/mk">mk&#039;s blog</a></div></div>
+    				<div class="tabs"></div>
+		              
+		<div class="content-container">
+			  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-119064" class="node clearfix" itemscope  itemtype="http://schema.org/BlogPosting">
+
+  <div class="content-title-box">
+  <h2 itemprop="name"><a href="/node/119064" title="เผย GameStop ได้ส่วนแบ่งจากไมโครซอฟท์ แม้ลูกค้า Xbox ซื้อเกมแบบดิจิทัลก็ตาม">เผย GameStop ได้ส่วนแบ่งจากไมโครซอฟท์ แม้ลูกค้า Xbox ซื้อเกมแบบดิจิทัลก็ตาม</a></h2>
+    </div><!--content-title-box-->
+  <div class="meta">
+      <span class="submitted">By: <span class="username">mk</span> <div class="user_badges"><a href="/crew"><img class="badge badge-2 founder" src="https://www.blognone.com/sites/default/files/badges/badge-founder.png" alt="Founder" title="Founder" /></a><a href="/news/15370/ask-blognone-are-you-android"><img class="badge badge-4 android" src="https://www.blognone.com/sites/default/files/badges/badge-android.png" alt="Android" title="Android" /></a></div> on 16 October 2020 - 14:32</span>
+  
+      <span class="terms-label">Tags:<span><span class="terms"><div class="field field-name-taxonomy-vocabulary-1 field-type-taxonomy-term-reference field-label-above"><div class="field-label">Topics:&nbsp;</div><div class="field-items"><div class="field-item even"><a href="/topics/gamestop">GameStop</a></div><div class="field-item odd"><a href="/topics/xbox">Xbox</a></div><div class="field-item even"><a href="/topics/microsoft">Microsoft</a></div><div class="field-item odd"><a href="/topics/games">Games</a></div></div></div></span>
+            </div><!--meta-->
+
+  <div class="content" >
+        <div class="node-image" ><img alt="Node Thumbnail" src="https://www.blognone.com/sites/default/files/styles/thumbnail/public/topics-images/gamestop-logo-vector.png?itok=GV-0UD04"></div>
+        <div class="node-content" itemprop="description">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>สัปดาห์ที่แล้วมีข่าว <a href="https://www.blognone.com/node/118936">ร้านขายเกม GameStop เซ็นสัญญาเป็นพาร์ทเนอร์กับไมโครซอฟท์</a> โดยครอบคลุมทั้งการใช้ระบบคลาวด์ ฮาร์ดแวร์ Surface และซอฟต์แวร์ Teams ในการทำงานของพนักงาน</p>
+<p>ในสัญญานี้ยังมีส่วนที่เกี่ยวกับการขายเครื่องแบบผ่อนผ่านโครงการ Xbox All Access ที่ GameStop จะร่วมผลักดันกับไมโครซอฟท์ด้วย</p>
+<p>หลังจากนั้น มีข่าวไม่ยืนยันออกมาจากบริษัทลงทุน DOMO Capital Management ว่าทาง GameStop จะได้ส่วนแบ่งรายได้จากไมโครซอฟท์ด้วย แม้ลูกค้าซื้อเกมแบบดาวน์โหลด ไม่ได้ซื้อแบบแผ่นก็ตาม ขอเพียงแค่ซื้อเกมบนคอนโซลที่ซื้อจาก GameStop เท่านั้น</p>
+<p><img alt="No Description" src="https://www.blognone.com/sites/default/files/externals/9d9475b026d3a9a69abf39c72550f965.jpg" ></p>
+<p>DOMO Capital บอกว่าได้ข้อมูลนี้โดยตรงจากฝ่ายบริหารนักลงทุนของ GameStop และระบุว่าสัญญาครอบคลุมถึง DLC หรือคอนเทนต์อื่นๆ ที่ซื้อผ่านช่องทางดิจิทัลด้วย (เช่น ซื้อเกมแบบแผ่นจากที่อื่น แต่มาซื้อ DLC ผ่านดิจิทัล) และมีผลเฉพาะกับคอนโซลเจนหน้าคือ Xbox Series X|S เท่านั้น</p>
+<p>ข่าวนี้สร้างความน่าสนใจ เพราะตลาดร้านขายเกมแบบขายปลีกอย่าง GameStop กำลังถดถอยจากพฤติกรรมลูกค้าที่ซื้อผ่านดิจิทัลมากขึ้น การที่ไมโครซอฟท์เข้ามาแชร์รายได้ดิจิทัลบางส่วนให้ ย่อมช่วยร้านขายเกมเพิ่มรายได้อีกทาง ในขณะที่ไมโครซอฟท์ก็ยังได้ประโยชน์จากช่องทางการขายเครื่องของ GameStop เช่นกัน</p>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr" xml:lang="en">Today <a href="https://twitter.com/search?q=%24GME&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$GME</a> confirmed with <a href="https://twitter.com/DOMOCAPITAL?ref_src=twsrc%5Etfw">@DOMOCAPITAL</a> that the agreement with <a href="https://twitter.com/search?q=%24MSFT&amp;src=ctag&amp;ref_src=twsrc%5Etfw">$MSFT</a> includes revenue sharing on all downstream revenue (i.e. digital downloads and digital content) from any device that GameStop brings into the <a href="https://twitter.com/Xbox?ref_src=twsrc%5Etfw">@Xbox</a> ecosystem. GameStop now meaningfully participates in digital.</p>
+<p>— DOMO Capital Management, LLC (@DOMOCAPITAL) <a href="https://twitter.com/DOMOCAPITAL/status/1316173476777136128?ref_src=twsrc%5Etfw">October 14, 2020</a></p></blockquote>
+<p>ที่มา - <a href="https://arstechnica.com/gaming/2020/10/microsoft-will-give-gamestop-a-share-of-xboxs-digital-revenues/">Ars Technica</a>, <a href="https://www.gamesindustry.biz/articles/2020-10-15-microsoft-will-share-digital-revenues-with-gamestop-on-every-xbox-it-sells">GamesIndustry</a></p>
+</div></div></div>    </div>
+        <div class="social-sharing">
+	<iframe allowtransparency="true" frameborder="0" scrolling="no" class="twshare" 
+        src="https://platform.twitter.com/widgets/tweet_button.html?count=horizontal&text=%E0%B9%80%E0%B8%9C%E0%B8%A2%20GameStop%20%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C%20%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%20Xbox%20%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%B2%E0%B8%A1%20via%20%40blognone&url=https%3A%2F%2Fwww.blognone.com%2Fnode%2F119064" ></iframe>
+<div id="fb-root"></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: '174772009239258', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+<div style="float:left; margin-right: 10px;" class="line-it"><a href="http://line.me/R/msg/text/?%E0%B9%80%E0%B8%9C%E0%B8%A2%20GameStop%20%E0%B9%84%E0%B8%94%E0%B9%89%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B9%81%E0%B8%9A%E0%B9%88%E0%B8%87%E0%B8%88%E0%B8%B2%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%8B%E0%B8%AD%E0%B8%9F%E0%B8%97%E0%B9%8C%20%E0%B9%81%E0%B8%A1%E0%B9%89%E0%B8%A5%E0%B8%B9%E0%B8%81%E0%B8%84%E0%B9%89%E0%B8%B2%20Xbox%20%E0%B8%8B%E0%B8%B7%E0%B9%89%E0%B8%AD%E0%B9%80%E0%B8%81%E0%B8%A1%E0%B9%81%E0%B8%9A%E0%B8%9A%E0%B8%94%E0%B8%B4%E0%B8%88%E0%B8%B4%E0%B8%97%E0%B8%B1%E0%B8%A5%E0%B8%81%E0%B9%87%E0%B8%95%E0%B8%B2%E0%B8%A1%20https%3A%2F%2Fwww.blognone.com%2Fnode%2F119064"><img src="/sites/all/themes/blognone42/images/linebutton.png" width="76px" height="20px" alt="LINE it!" /></a></div>
+<div class="fb-like" data-href="https://www.blognone.com/node/119064" data-layout="button_count" data-action="like" data-show-faces="true" data-share="true"></div>
+<!--<fb:like href="https://www.blognone.com/node/119064" send="true" show_faces="true" width="300" font=""></fb:like>-->
+
+    </div><!--social-sharing-->
+<div id="page-sharing"> <!--Share - Page -->
+<span id="page-sharing-title">Get latest news from Blognone</span>
+<a class="twitter-follow-button"
+  href="https://twitter.com/blognone"
+  data-show-count="true"
+  data-lang="en">
+Follow @twitterapi
+</a>
+<div class="fb-like" data-href="https://www.facebook.com/blognone" data-layout="button_count" data-action="like" data-show-faces="true" data-share="false"></div>
+</div> <!-- Share Page-->
+      </div><!--content-->
+
+</div><!--node-->
+
+      <div id="above_comments"><div id="block-views-98bfd7cfaabbf23947102c44dd2b047f" class="block block-views">
+
+    <h2>Hiring! บริษัทที่น่าสนใจ</h2>
+  
+  <div class="content">
+    <div class="view view-PremiumCompanies view-id-PremiumCompanies view-display-id-premium_company view-dom-id-308cf4c83ed82a029df1962819d250c7">
+        
+  
+  
+      <div class="view-content">
+        <div class="company-item-container">
+      
+          <a href="https://jobs.blognone.com/company/bighead-creative-co-ltd" class="company-item">
+  
+    <img class="company-cover" src="https://img.blognone.com/jobs/prod/350x175/cover/bighead-creative-co-ltd.jpg" alt="Bighead Creative Co.,ltd. company cover" />
+  
+  <div class="company-right">
+    <div class="company-name">Bighead Creative Co.,ltd.</div>
+    <div class="company-brief">เราเป็นบริษัท Software House  ที่เชี่ยวชาญด้านการพัฒนา Web Based Application และ Mobile Application</div>
+  </div>
+</a>    </div>
+  <div class="company-item-container">
+      
+          <a href="https://jobs.blognone.com/company/soilfish-co-ltd" class="company-item">
+  
+    <img class="company-cover" src="https://img.blognone.com/jobs/prod/350x175/cover/soilfish-co-ltd.jpg" alt="Soilfish Co.,Ltd. company cover" />
+  
+  <div class="company-right">
+    <div class="company-name">Soilfish Co.,Ltd.</div>
+    <div class="company-brief">Software / AI / FinTech / Startup - We can do it!</div>
+  </div>
+</a>    </div>
+  <div class="company-item-container">
+      
+          <a href="https://jobs.blognone.com/company/cipher-co-ltd" class="company-item">
+  
+    <img class="company-cover" src="https://img.blognone.com/jobs/prod/350x175/cover/cipher-co-ltd" alt="Cipher Co., Ltd. company cover" />
+  
+  <div class="company-right">
+    <div class="company-name">Cipher Co., Ltd.</div>
+    <div class="company-brief">Website Development, Magento Development &amp; Inbound Marketing</div>
+  </div>
+</a>    </div>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+</div>
+  <div id="comment-area">
+<div id="comments" class="comment-wrapper">
+          <h2 class="title">Comments</h2>
+      
+  <a id="comment-1181048"></a>
+<div id="cid-1181048" class="comment comment-even-depth clearfix">
+  <div class="comment-info ">
+    By: <span class="username">pppo</span>  on 16 October 2020 - 14:45 <a class="comment-target" href="/node/119064#cid-1181048">#1181048</a>
+  </div>
+  <div class="comment-body">
+  <div class="comment-user-picture">
+      </div>
+    
+  <div class="comment-content">
+    <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>สมกับที่ได้เรจจี้ไปบริหาร</p>
+</div></div></div>      </div><!-- .comment-content -->
+<div class="comment-links">
+<ul class="links inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/119064%23comment-form">Log in</a> or <a href="/user/register?destination=node/119064%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- .comment-links -->
+</div><!-- .comment-body -->
+</div><!-- .comment -->
+<a id="comment-1181099"></a>
+<div id="cid-1181099" class="comment comment-even-depth clearfix">
+  <div class="comment-info ">
+    By: <span class="username">langisser</span> <div class="user_badges"><img class="badge badge-21 in-love" src="https://www.blognone.com/sites/default/files/badges/emblem-favorite.png" alt="In Love" title="In Love" /></div> on 16 October 2020 - 20:41 <a class="comment-target" href="/node/119064#cid-1181099">#1181099</a>
+  </div>
+  <div class="comment-body">
+  <div class="comment-user-picture">
+      </div>
+    
+  <div class="comment-content">
+    <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>ดีลนี้ดี</p>
+</div></div></div>      </div><!-- .comment-content -->
+<div class="comment-links">
+<ul class="links inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/119064%23comment-form">Log in</a> or <a href="/user/register?destination=node/119064%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- .comment-links -->
+</div><!-- .comment-body -->
+</div><!-- .comment -->
+<a id="comment-1181103"></a>
+<div id="cid-1181103" class="comment comment-even-depth clearfix">
+  <div class="comment-info ">
+    By: <span class="username">PriteHome</span> <div class="user_badges"><a href="/contributors"><img class="badge badge-3 contributor" src="https://www.blognone.com/sites/default/files/badges/badge-contributer.png" alt="Contributor" title="Contributor" /></a><a href="/news/15370/ask-blognone-are-you-android"><img class="badge badge-4 android" src="https://www.blognone.com/sites/default/files/badges/badge-android.png" alt="Android" title="Android" /></a><img class="badge badge-17 windows" src="https://www.blognone.com/sites/default/files/badges/badge-windows-dim.png" alt="Windows" title="Windows" /></div> on 16 October 2020 - 22:01 <a class="comment-target" href="/node/119064#cid-1181103">#1181103</a>
+  </div>
+  <div class="comment-body">
+  <div class="comment-user-picture">
+      <div class="user-picture">
+    <img src="https://www.blognone.com/sites/default/files/styles/micro/public/pictures/picture-51006-1498797834.jpg?itok=INhk3ZfO" width="40" height="40" alt="PriteHome&#039;s picture" title="PriteHome&#039;s picture" />  </div>
+  </div>
+    
+  <div class="comment-content">
+    <div class="field field-name-comment-body field-type-text-long field-label-hidden"><div class="field-items"><div class="field-item even"><p>หล่อ</p>
+</div></div></div>      </div><!-- .comment-content -->
+<div class="comment-links">
+<ul class="links inline"><li class="comment_forbidden first last"><span><a href="/user/login?destination=node/119064%23comment-form">Log in</a> or <a href="/user/register?destination=node/119064%23comment-form">register</a> to post comments</span></li>
+</ul></div><!-- .comment-links -->
+</div><!-- .comment-body -->
+</div><!-- .comment -->
+
+  </div>
+</div>
+  </div>
+</div>
+  </div>
+	
+		</div><!-- content container -->
+
+
+	<!-- main content region -->
+		<!-- end main content region -->
+
+	</div>
+	<!-- end main content -->
+
+	<!-- sidebar -->
+	<div id="sidebar">
+
+		<!-- right top sidebar -->
+		<div id="righttop_sidebar">
+		  <div class="region region-righttop-sidebar">
+    <div id="block-block-56" class="block block-block">
+
+    
+  <div class="content">
+    <!-- Top Right Banner --><!-- /121015634/blognone_top_right --><div id="div-gpt-ad-1479960323194-0" style="width: 300px; height: 250px;">
+<script>
+<!--//--><![CDATA[// ><!--
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561862396899-0'); });
+  
+//--><!]]>
+</script></div>
+  </div>
+</div>
+<div id="block-user-login">
+    <h2>sign in</h2>
+
+    <div class="item-list">
+    <ul>
+        <li class="first"><a href="/user/register" title="ลงทะเบียน">ลงทะเบียน</a></li>
+        <li class="last"><a href="/user/password" title="ลืมรหัสผ่าน">ลืมรหัสผ่าน</a></li>
+    </ul>
+    </div>
+    <div class="clear"></div>
+    <form action="/node?destination=node" method="post" id="user-login" accept-charset="UTF-8">
+    <div class="form-item" id="edit-name-wrapper">
+        <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+        <input type="text" maxlength="60" name="name" id="edit-name" size="15" maxlength="60" value="" class="form-text required" />
+    </div>
+    <div class="form-item" id="edit-pass-wrapper">
+        <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+        <input type="password" name="pass" id="edit-pass" maxlength="60" size="15" maxlength="128" class="form-text required" />
+    </div>
+    <input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+    <input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+    <input type="hidden" name="form_build_id" value="form-h9xtd1kYzpYftPx9Mixo2I_3BPFCai3w0NwGyhXpGWA" />
+    </form>
+    
+    <div class="clear"></div>
+</div>  </div>
+		</div>
+		<!-- end right top sidebar -->
+		
+		<!-- user -->
+		<!-- end: user -->
+
+				<!-- right bottom sidebar -->
+		<div id="rightbottom_sidebar">
+		  <div class="region region-rightbottom-sidebar">
+    <div id="block-views-jobs-blognone-com-block" class="block block-views">
+
+    <h2>Blognone Jobs Premium</h2>
+  
+  <div class="content">
+    <div class="view view-jobs-blognone-com view-id-jobs_blognone_com view-display-id-block view-dom-id-fb33e23f0b0d76c508412bd1ec256bf3">
+        
+  
+  
+      <div class="view-content">
+        <div class="views-row views-row-1 views-row-odd views-row-first">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/t2p-company-limited/job/senior-full-stack-de-3sBE" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/t2p-company-limited.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Senior / Middle Developer</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿30,000 - ฿80,000
+      </div>
+      <div class="jobs-company">T2P Company Limited</div>
+      
+       - 
+      <div class="jobs-region">วัฒนา กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-2 views-row-even">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/h-lab/job/front-end-developer-yeTC" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/h-lab_xKfokot.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Front-end Developer</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿35,000 - ฿70,000
+      </div>
+      <div class="jobs-company">H LAB</div>
+      
+       - 
+      <div class="jobs-region">ปทุมวัน กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-3 views-row-odd">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/m-intelligence-co-ltd/job/software-developer-t-mVed" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/m-intelligence-co-ltd.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Software Developer/Tester/UXUI</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿27,000 - ฿60,000
+      </div>
+      <div class="jobs-company">M Intelligence Co., Ltd.</div>
+      
+       - 
+      <div class="jobs-region"> กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-4 views-row-even">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/ntbx/job/software-engineer-1gRu" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/ntbx.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Software Engineer</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿20,000 - ฿50,000
+      </div>
+      <div class="jobs-company">NTBX</div>
+      
+       - 
+      <div class="jobs-region">ปากเกร็ด นนทบุรี</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-5 views-row-odd">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/razer-inc/job/business-development-SSWj" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/razer-inc.png" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Business Development Manager</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿55,000 - ฿65,000
+      </div>
+      <div class="jobs-company">Razer Inc.</div>
+      
+       - 
+      <div class="jobs-region">ยานนาวา กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-6 views-row-even">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/plaimanas-industries-co-ltd/job/frontend-developer-0803" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/plaimanas-industries-co-ltd_p9rRZon.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Frontend developer (HTML/CSS, jQuery)</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿45,000 - ฿70,000
+      </div>
+      <div class="jobs-company">Plaimanas</div>
+      
+       - 
+      <div class="jobs-region">ปทุมวัน กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-7 views-row-odd">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/storagecity-platform-co-ltd/job/mobile-developer-ma-AfUX" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/storagecity-platform-co-ltd.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Mobile Developer (หลายตำแหน่ง)</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿30,000 - ฿50,000
+      </div>
+      <div class="jobs-company">Storagecity Platform Co.,LTD.</div>
+      
+       - 
+      <div class="jobs-region">ประเวศ กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-8 views-row-even">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/dailitech/job/cloud-software-engin-H0L-" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/dailitech" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Software Engineer - Mobile or Web</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿25,000 - ฿40,000
+      </div>
+      <div class="jobs-company">DailiTech</div>
+      
+       - 
+      <div class="jobs-region">สาทร กรุงเทพมหานคร</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-9 views-row-odd">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/ai-robotics-ventures-co-ltd/job/data-engineer-4hwn" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/ai-robotics-ventures-co-ltd.png" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">Data Engineer</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿30,000 - ฿100,000
+      </div>
+      <div class="jobs-company">AI &amp; Robotics Ventures Co.,Ltd</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+  <div class="views-row views-row-10 views-row-even views-row-last">
+      
+  <div class="views-field views-field-description">        <span class="field-content"><a href="https://jobs.blognone.com/company/ntbx/job/ui-designer-H2Uz" class="jobs-item" target="_blank">
+  <img src="https://img.blognone.com/logo/prod/48x48/logo/ntbx.jpg" class="jobs-logo">
+  <div class="jobs-right">
+    <div class="jobs-title">UI Designer</div>
+    <div class="jobs-metadata">
+      <div class="jobs-salary">
+        ฿20,000 - ฿50,000
+      </div>
+      <div class="jobs-company">NTBX</div>
+      
+       - 
+      <div class="jobs-region">ปากเกร็ด นนทบุรี</div>
+      
+    </div>
+  </div>
+</a></span>  </div>  </div>
+    </div>
+  
+  
+  
+  
+      <div class="view-footer">
+      <div align="right"><a href="https://jobs.blognone.com/package">ลงประกาศ</a></div>
+    </div>
+  
+  
+</div>  </div>
+</div>
+<div id="block-aggregator-category-5" class="block block-aggregator">
+
+    <h2>Brand Inside</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="https://brandinside.asia/bot-not-extend-debt-payment-measure-for-debtor-16-oct-2020/">แบงก์ชาติไม่ต่ออายุมาตรการพักชำระหนี้ หลังครบกำหนด 22 ตุลาคมนี้ ปรับวิธีช่วยเหลือเชิงรุกแก่ลูกหนี้ที่มีปัญหา</a>
+</li>
+<li><a href="https://brandinside.asia/garmin-smartwatch-presenter/">Garmin ชี้ตลาด Smartwatch ครึ่งปีแรกโต 31.1% ส่งกลยุทธ์พรีเซนเตอร์กระตุ้นยอดขาย</a>
+</li>
+<li><a href="https://brandinside.asia/krungsri-partner-with-blackrock-to-boost-wealth-unit-15-oct-2020/">กรุงศรีจับมือกับ BlackRock บลจ. รายใหญ่ของโลก เสริมแกร่งธุรกิจ Wealth Management</a>
+</li>
+<li><a href="https://brandinside.asia/thai-economy-take-2-years-more-recovery-and-most-uncertainly/">แบงก์ชาติคาดเศรษฐกิจไทยฟื้นตัวไม่ต่ำกว่า 2 ปี ไม่แน่นอนสูง การจ้างงานเปราะบาง</a>
+</li>
+<li class="last"><a href="https://brandinside.asia/ais-esports-u-league/">AIS ยกระดับการทำตลาดด้วย Esports ผ่านการจัดการแข่งขัน AIS 5G eSports U-League 2020</a>
+</li>
+</ul></div><div class="more-link"><a href="/aggregator/categories/5" title="View this category&#039;s recent news.">More</a></div>  </div>
+</div>
+<div id="block-aggregator-category-4" class="block block-aggregator">
+
+    <h2>Partners</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="https://www.macthai.com/2020/10/16/samsung-mock-iphone-12-no-power-adaptor/">Samsung โพสต์โชว์ว่าแถมหัวชาร์จแบตมาให้ทุกเครื่อง หลัง Apple เลิกแถมใน iPhone 12</a>
+</li>
+<li><a href="https://www.macthai.com/2020/10/16/apple-sell-iphone-12-with-earpods-for-france-country/">Apple ยังคงมีหูฟัง EarPods แถมในกล่อง iPhone ทุกรุ่นที่ขายในฝรั่งเศส เพราะกฏหมายบังคับ</a>
+</li>
+<li><a href="https://www.macthai.com/2020/10/16/iphone-12-country-tier-2-korea-india-no-thailand/">Apple ประกาศรายชื่อกลุ่ม 2 ขาย iPhone 12 ที่เกาหลี, อินเดีย 30 ต.ค.นี้ !! ยังคงไม่มีประเทศไทย</a>
+</li>
+<li><a href="https://www.mxphone.com/how-to-register-half-half/">วิธีลงทะเบียนโครงการ คนละครึ่ง รับเงิน 3,000 บาท รอบนี้เว็บไม่ล่มเหลือสิทธิ์เยอะ</a>
+</li>
+<li class="last"><a href="https://www.mxphone.com/geekbench-results-for-iphone-12-surface-show-modest-performance-gains/">Geekbench เปิดคะแนนทดสอบ iPhone 12 แรงขึ้นกว่ารุ่นชิป A13 เล็กน้อย</a>
+</li>
+</ul></div><div class="more-link"><a href="/aggregator/categories/4" title="View this category&#039;s recent news.">More</a></div>  </div>
+</div>
+<div id="block-views-others-forums-block-1" class="block block-views">
+
+    <h2>Forum</h2>
+  
+  <div class="content">
+    <div class="view view-others-forums view-id-others_forums view-display-id-block_1 view-dom-id-5b2ff901a2c60d200933e6e0e4f8b7aa">
+        
+  
+  
+      <div class="view-content">
+      <div class="item-list">    <ul>          <li class="views-row views-row-1 views-row-odd views-row-first">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/119061">เหมือนเน็ต CAT จะบล็อก youtu.be ?</a></span>  </div></li>
+          <li class="views-row views-row-2 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118963">ผู้ดูแลระบบสามารถตรวจสอบได้มั้ยครับว่าผู้ใช้งานเข้าเว็บอะไรบ้าง ตามเงื่อนไขดังต่อไปนี้ครับ</a></span>  </div></li>
+          <li class="views-row views-row-3 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118958">ถ้ารายการข้อมูลเท่ากัน RDBMS vs NOSQL (json database) อันไหนเร็วกว่า</a></span>  </div></li>
+          <li class="views-row views-row-4 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118937">ขอความช่วยเหลือครับพอจะหาบอร์ดไมโครบิต ที่สั่งได้เร็วๆที่ไหนได้บ้างครับ</a></span>  </div></li>
+          <li class="views-row views-row-5 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118934">เวนเดอร์ หรือ เอาซอร์ส พัฒนาระบบให้องค์กร ที่ผมเจอจะอารมณ์แบบนี้</a></span>  </div></li>
+          <li class="views-row views-row-6 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118909">สอบถามเกี่ยวกับการสมัครงานกับตำแหน่งที่ตำ่กว่าประกาศรับไว้</a></span>  </div></li>
+          <li class="views-row views-row-7 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118876">ติดตั้งหลาย ๆ  software server ลงใน 1 container ของ docker ทำได้ไหมครับ</a></span>  </div></li>
+          <li class="views-row views-row-8 views-row-even">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118719">รบกวนขอคำแนะนำข่าวที่เขียนหน่อยครับ</a></span>  </div></li>
+          <li class="views-row views-row-9 views-row-odd">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118635">สอบถามเกี่ยวกับ Fonts ใน Mackbook Pro</a></span>  </div></li>
+          <li class="views-row views-row-10 views-row-even views-row-last">  
+  <div class="views-field views-field-title">        <span class="field-content"><a href="/node/118528">ชาว Blogone ใช้ fractional shares ในไทย เจ้าไหน กันคับ</a></span>  </div></li>
+      </ul></div>    </div>
+  
+  
+  
+  
+  
+  
+</div>  </div>
+</div>
+<div id="block-block-57" class="block block-block">
+
+    <h2>Blognone on Facebook</h2>
+  
+  <div class="content">
+    <div class="fb-page" data-href="https://www.facebook.com/blognone" data-width="292" data-height="290" data-hide-cover="false" data-show-facepile="true" data-show-posts="false">
+<div class="fb-xfbml-parse-ignore">
+<blockquote cite="https://www.facebook.com/blognone"><a href="https://www.facebook.com/blognone">Blognone</a></blockquote>
+</div>
+</div>
+  </div>
+</div>
+  </div>
+		</div>
+		<!-- end right bottom sidebar -->
+		
+	</div><!-- end sidebar -->
+	<div class="clear"></div>
+</div><!-- end content -->
+<div class="clear"></div>
+
+<!-- footer -->
+<div id="footer">
+	<div id="footer-content">
+		  <div class="region region-footer">
+    <div id="block-block-36" class="block block-block">
+
+    <h2>About Blognone</h2>
+  
+  <div class="content">
+    <ul>
+<li><a href="/about">About Us</a>, <a href="/milestone">History</a></li>
+<li><a href="/node/97062">Careers</a></li>
+<li><a href="/statistics">Statistics</a></li>
+<li><a href="/become_member">Become Member</a></li>
+<li><a href="/writing_guideline">Writing Guideline</a>, <a href="/glossary">Glossary</a></li>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="/privacy">Privacy Policy</a></li>
+</ul>
+  </div>
+</div>
+<div id="block-block-38" class="block block-block">
+
+    <h2>Other Version</h2>
+  
+  <div class="content">
+    <ul>
+<li><a href="http://www.blognone.com/atom.xml">RSS Feed</a></li>
+<li><a href="/apps">Apps</a></li>
+<li><a href="http://twitter.com/blognone" title="Receive News from Twitter">Twitter</a>, <a href="http://facebook.com/blognone" title="Receive News from Facebook">Facebook</a>, <a href="https://plus.google.com/+blognone">Google+</a>, <a href="http://www.youtube.com/user/blognone">YouTube</a></li>
+</ul>
+<p><a href="http://www.blognone.com/follow">Blognone in Other Forms</a></p>
+  </div>
+</div>
+<div id="block-block-39" class="block block-block">
+
+    <h2>Copyright Notice</h2>
+  
+  <div class="content">
+    <p><a href="http://creativecommons.org/licenses/by/3.0/th">Creative Commons Attribution 3.0</a><br />
+©2004-2019</p>
+<p>Blognone.com is owned and operated by Blognone Co., Ltd. (<a href="http://www.linkedin.com/company/blognone">LinkedIn Profile</a>)</p>
+<p>Blognone is a subsidiary company of <a href="https://www.wongnai.com">wongnai.com</a></p>
+  </div>
+</div>
+  </div>
+	</div>
+	<div class="clear"></div>
+</div><!-- end footer -->
+</div><!-- end wrapper -->
+        
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95793-3', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1702908339970395');
+fbq('track', "PageView");</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=1702908339970395&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code -->
+<script type="text/javascript">
+function move_login_block() {
+    login_box = document.querySelector("#block-user-login");
+    content_block = document.querySelector("#content");
+    content_block.insertBefore(login_box, content_block.firstChild);
+}
+
+function main_ui () {
+  if (window.matchMedia("(max-width:1000px)").matches) {
+      var str = "<a href=\"javascript:void(0)\" onclick=\"move_login_block();\">Login</a>";
+      var list_item = document.createElement('li');
+      list_item.innerHTML = str;
+      menu = document.querySelector("#main-menu-links");
+      menu.appendChild(list_item);
+  }
+  openid = document.querySelectorAll(".openid-link a");
+  if (openid.length == 1) {
+     openid[0].click() 
+  }
+};
+
+function rand_jobs() {
+  var joblist = document.querySelector("#block-views-jobs-blognone-com-block .view-content");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+}
+
+function limit_jobs() {
+  var MAX_ITEM = 20;
+  var joblist = document.querySelector("#block-views-jobs-premium-block-1 ul");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+  if (joblist.children.length > MAX_ITEM) {
+    for (var i = MAX_ITEM; i < joblist.children.length; i++) {
+      joblist.children[i].style.display = "none";
+    }
+  }
+}
+
+jQuery(document).ready(function() {
+  main_ui();
+  limit_jobs();
+  rand_jobs();
+});
+</script>
+</body>
+</html>
+
+<!-- Page cached by Boost @ 2020-10-16 22:02:12, expires @ 2020-10-23 22:02:12, lifetime 1 week -->

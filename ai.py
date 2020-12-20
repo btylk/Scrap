@@ -2,7 +2,7 @@ import requests
  
 url = "https://api.aiforthai.in.th/bully"
  
-text = 'ไอห่า วอนมือวอนตีน'
+text = 'ฆ่า'
  
 params = {'text':text}
  

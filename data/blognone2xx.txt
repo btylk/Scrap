@@ -1,0 +1,382 @@
+Huawei ปล่อย HarmonyOS 2.0, บอกรันบนอุปกรณ์กว่า 100 ล้านชิ้นรวม IoT ในปีหน้า | Blognone
+
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"blognone42","theme_token":"iOzsmQA6MtUobehjo3SAq7XsyxQMoTuWWnYiqaBumk0","js":{"misc\/jquery.js":1,"misc\/jquery-extend-3.4.0.js":1,"misc\/jquery-html-prefilter-3.5.0-backport.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"sites\/all\/modules\/views\/css\/views.css":1,"sites\/all\/modules\/ctools\/css\/ctools.css":1,"sites\/all\/themes\/blognone42\/css\/reset.css":1,"sites\/all\/themes\/blognone42\/css\/style.css":1,"sites\/all\/themes\/blognone42\/css\/resps.css":1}},"urlIsAjaxTrusted":{"\/node\/120142?destination=node\/120142":true}});
+//--><!]]>
+
+
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+
+
+  googletag.cmd.push(function() {
+var mapping = googletag.sizeMapping().
+  addSize([780, 0], [728, 90]).
+  addSize([0, 0], [320, 50]).
+  build();
+
+	googletag.defineSlot('/121015634/blognone_leader_top', [728, 90], 'div-gpt-ad-1416143777472-0').defineSizeMapping(mapping).addService(googletag.pubads());
+	googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+  googletag.cmd.push(function() {
+    googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1479960323194-0').addService(googletag.pubads());
+    googletag.pubads().enableSingleRequest();
+    googletag.enableServices();
+  });
+
+
+ googletag.cmd.push(function() {
+   googletag.defineSlot('/121015634/blognone_top_right', [300, 250], 'div-gpt-ad-1429324800409-0').addService(googletag.pubads());
+   googletag.pubads().enableSingleRequest();
+   googletag.enableServices();
+ });
+
+Skip to main content
+
+<!--//--><![CDATA[// ><!--
+
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1416143777472-0'); });
+
+//--><!]]>
+
+Main menu
+Features
+Interview
+Forum
+Jobs
+Workplace
+Company Profile
+Search
+You are here
+Home
+ » 
+Blogs
+ » 
+nismod's blog
+Huawei ปล่อย HarmonyOS 2.0, บอกรันบนอุปกรณ์กว่า 100 ล้านชิ้นรวม IoT ในปีหน้า
+By: 
+nismod
+ on 16 December 2020 - 14:31
+Tags:
+Topics: 
+HarmonyOS
+Huawei
+Huawei เพิ่งปล่อย HarmonyOS เวอร์ชันเบต้า 2.0 ให้นักพัฒนาไปทดลองใช้งาน โดยเวอร์ชันบนสมาร์ทโฟน UX/UI ที่ถูกเปิดเผยออกมาแทบไม่แตกต่างจาก EMUI 11 ที่เป็นแอนดรอยด์ในปัจจุบันมากนัก ส่วนบนอุปกรณ์อื่น ๆ Huawei เผยว่าได้พาร์ทเนอร์เข้ามามากขึ้นทั้บริษัทรถ, IoT และเครื่องใช้ไฟฟ้าภายในบ้าน
+Huawei คาดว่าจะปล่อย HarmonyOS เวอร์ชันสมาร์ทโฟนในปีหน้า ขณะที่อุปกรณ์ฮาร์ดแวร์ต่าง ๆ ที่จะรัน HarmonyOS อย่างอุปกรณ์ IoT และเครื่องใช้ไฟฟ้าภายในบ้านก็คาดว่าจะออกสู่ตลาดราว 100 ล้านชิ้นภายในปีหน้าเช่นกัน
+ที่มา - Huawei Central (
+1
+, 
+2
+)
+
+  window.fbAsyncInit = function() {
+    FB.init({appId: '174772009239258', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+
+Get latest news from Blognone
+
+Follow @twitterapi
+
+Hiring! บริษัทที่น่าสนใจ
+Getlinks (On behalf of our partners)
+Getlinks is helping our partners to find top-notch engineering talents.
+Finnomena.Co.,Ltd.
+FINNOMENA is looking for full-time developers to join our fast paced and challenging startup
+iApp Technology
+ผู้พัฒนา Web, Mobile and AI Application ด้วยเทคโนโลยีล่าสุด
+Comments
+
+    By: 
+itpcc
+ on 16 December 2020 - 14:44 
+#1190075
+ขึ้นทั้บริษัท -> ขึ้นทั้
+ง
+บริษัท
+บล็อกส่วนตัวที่อัพเดตตามอารมณ์และความขยัน :P
+Log in
+ or 
+register
+ to post comments
+
+    By: 
+jokerjunior
+ on 16 December 2020 - 14:48 
+#1190076
+99.8 ล้านชิ้นอยู่ในจีน
+Log in
+ or 
+register
+ to post comments
+
+    By: 
+modernelf
+  on 16 December 2020 - 15:57 
+#1190083
+เหมือน android + ios เลย
+Log in
+ or 
+register
+ to post comments
+
+    By: 
+Teenkaiju
+  on 16 December 2020 - 16:17 
+#1190085
+เหมือนเดิม
+Log in
+ or 
+register
+ to post comments
+
+    By: 
+big50000
+ on 16 December 2020 - 16:25 
+#1190086
+เหมือนแค่ทำ Android framework ให้ไปอยู่บน Harmony เฉย ๆ ก็ลุ้นเอาว่าจะแป้กเหมือน BB10 หรือเปล่า จะขายได้แต่ในจีนหรือไม่
+Log in
+ or 
+register
+ to post comments
+
+<!--//--><![CDATA[// ><!--
+
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1561862396899-0'); });
+  
+//--><!]]>
+
+sign in
+ลงทะเบียน
+ลืมรหัสผ่าน
+Username: 
+*
+Password: 
+*
+Blognone Jobs Premium
+Software Engineer
+
+        ฿20,000 - ฿50,000
+      
+NTBX
+
+      
+       - 
+      
+ปากเกร็ด นนทบุรี
+Front-end Developer (React Native)
+
+        ฿30,000 - ฿40,000
+      
+DPLUS INTERTRADE COMPANY LIMITED
+
+      
+       - 
+      
+ยานนาวา กรุงเทพมหานคร
+Software Engineer (Based in Ubon Ratchathani)
+
+        ฿20,000 - ฿50,000
+      
+NTBX
+
+      
+       - 
+      
+ปากเกร็ด นนทบุรี
+Junior Front-end Engineer
+
+        ฿25,000 - ฿45,000
+      
+H LAB
+
+      
+       - 
+      
+ปทุมวัน กรุงเทพมหานคร
+Full Stack Developer
+
+        ฿70,000 - ฿90,000
+      
+30 SecondsToFly (Thailand) Co., Ltd.
+Junior Front-end Engineer
+
+        ฿25,000 - ฿45,000
+      
+H LAB
+
+      
+       - 
+      
+ปทุมวัน กรุงเทพมหานคร
+Front-end Developer (React Native)
+
+        ฿30,000 - ฿40,000
+      
+DPLUS INTERTRADE COMPANY LIMITED
+
+      
+       - 
+      
+ยานนาวา กรุงเทพมหานคร
+Mobile Developer (หลายตำแหน่ง)
+
+        ฿30,000 - ฿50,000
+      
+Storagecity Platform Co.,LTD.
+
+      
+       - 
+      
+ประเวศ กรุงเทพมหานคร
+Software Engineer
+
+        ฿20,000 - ฿50,000
+      
+NTBX
+
+      
+       - 
+      
+ปากเกร็ด นนทบุรี
+Full Stack Developer
+
+        ฿70,000 - ฿90,000
+      
+30 SecondsToFly (Thailand) Co., Ltd.
+ลงประกาศ
+Brand Inside
+dtac เยียวยา OTP “คนละครึ่ง” ล่ม ให้ส่วนลด โทรฟรี เน็ตฟรี
+นิตยสารฉลาดซื้อทดสอบเครื่องดื่มวิตามินซี 47 ตัวอย่าง พบว่า 8 ตัวอย่างไม่มีวิตามินซีเลย
+ฝ้ายจากแรงงานทาส: ส.ส. อังกฤษเรียกร้องภาคธุรกิจ หยุดซื้อฝ้ายจากจีนที่ละเมิดสิทธิ์ชาวอุยกูร์
+โควิด-19 ทำลายวัฒนธรรมปีใหม่ ผลสำรวจเผยบริษัทญี่ปุ่น 90% เลิกจัดปาร์ตี้ฉลองช่วงสิ้นปี
+รัฐมนตรีเกย์คนแรกของสหรัฐฯ Biden เลือก Pete Buttigieg นั่งในครม. ดูแลกระทรวงคมนาคม
+More
+Partners
+เผยภาพถ่ายทางช้างเผือกแสดงความสามารถของ Apple ProRAW ใน iPhone 12 Pro
+ราคา iPhone ล่าสุดจาก Apple, TrueMove H, AIS, DTAC ประจำเดือน ธ.ค. 63
+Microsoft Office 365 รองรับ Mac รุ่นชิป M1 แล้ว
+iPhone รุ่นเก่าที่รองรับ iOS 14.3 สามารถแก้ไขภาพ Apple ProRAW ได้
+iOS 14.3 สามารถสั่งให้ Siri ส่งเสียงของสัตว์ได้ (ทดลองแล้วยังไม่ได้)
+More
+Forum
+มาร่วมแสดงความเห็นหลังเล่น Cyberpunk 2077 กันครับ
+เคยเจอ Phishing ในเฟสบุ้คแบบนี้บ้างไหมครับ?
+ไปลองเล่น MacBook Air รุ่นใหม่
+Zendesk ประเทศไทยส่งมอบ Zendesk Support Suite ช่วยนำทางการบริการลูกค้าที่ดียิ่งขึ้นให้กับทุกธุรกิจ
+ขอสอบถาม programmer ทุกๆท่านที่ทำแอปแอนดรอยด์ ในฐานะของผู้ใช้งานครับ
+KPlus กลับมาบังคับใช้ Phone+ Storage Permission อีกแล้วหรอครับ
+ปรึกษาเรื่องการซื้อ Microsoft 365 ใช้ในองค์กรขนาดเล็ก
+ใคร Root แล้วเข้า KPlus version ล่าสุดไม่ได้บ้างครับ
+พวก key windows 10 ราคาพันกว่าบาทถ้าถูกตรวจลิขสิทธิ์จะผ่านหรือเปล่าครับ
+bitlocker
+Blognone on Facebook
+Blognone
+About Blognone
+About Us
+, 
+History
+Careers
+Statistics
+Become Member
+Writing Guideline
+, 
+Glossary
+Contact Us
+Privacy Policy
+Other Version
+RSS Feed
+Apps
+Twitter
+, 
+Facebook
+, 
+Google+
+, 
+YouTube
+Blognone in Other Forms
+Copyright Notice
+Creative Commons Attribution 3.0
+
+©2004-2019
+Blognone.com is owned and operated by Blognone Co., Ltd. (
+LinkedIn Profile
+)
+Blognone is a subsidiary company of 
+wongnai.com
+(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/all.js#xfbml=1"; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));
+
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-95793-3', 'auto');
+  ga('send', 'pageview');
+
+
+
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1702908339970395');
+fbq('track', "PageView");
+
+function move_login_block() {
+    login_box = document.querySelector("#block-user-login");
+    content_block = document.querySelector("#content");
+    content_block.insertBefore(login_box, content_block.firstChild);
+}
+
+function main_ui () {
+  if (window.matchMedia("(max-width:1000px)").matches) {
+      var str = "<a href=\"javascript:void(0)\" onclick=\"move_login_block();\">Login</a>";
+      var list_item = document.createElement('li');
+      list_item.innerHTML = str;
+      menu = document.querySelector("#main-menu-links");
+      menu.appendChild(list_item);
+  }
+  openid = document.querySelectorAll(".openid-link a");
+  if (openid.length == 1) {
+     openid[0].click() 
+  }
+};
+
+function rand_jobs() {
+  var joblist = document.querySelector("#block-views-jobs-blognone-com-block .view-content");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+}
+
+function limit_jobs() {
+  var MAX_ITEM = 20;
+  var joblist = document.querySelector("#block-views-jobs-premium-block-1 ul");
+  for (var i  = joblist.children.length; i >= 0 ; i--) {
+    joblist.appendChild(joblist.children[Math.random() * i | 0]);
+  }
+  if (joblist.children.length > MAX_ITEM) {
+    for (var i = MAX_ITEM; i < joblist.children.length; i++) {
+      joblist.children[i].style.display = "none";
+    }
+  }
+}
+
+jQuery(document).ready(function() {
+  main_ui();
+  limit_jobs();
+  rand_jobs();
+});
+
