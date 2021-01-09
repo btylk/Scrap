@@ -1,7 +1,7 @@
 var THEME_ROOT = 'https://droidsans.com/wp-content/themes/flex-mag-child';
 เปิดตัว OnePlus Nord N10 5G LINE FRIENDS Special Box Set สุดพิเศษ ราคา 11,490 บาท มีขายแค่ที่ไทยเท่านั้น | DroidSans
-{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://droidsans.com/#organization","name":"Droidsans","url":"https://droidsans.com/","sameAs":["https://www.facebook.com/droidsans/","https://www.youtube.com/droidsans","https://twitter.com/droidsans"],"logo":{"@type":"ImageObject","@id":"https://droidsans.com/#logo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2018/09/droidsans-logo-190x36e.png","width":600,"height":256,"caption":"Droidsans"},"image":{"@id":"https://droidsans.com/#logo"}},{"@type":"WebSite","@id":"https://droidsans.com/#website","url":"https://droidsans.com/","name":"DroidSans","description":"The First Android Community in Thailand","publisher":{"@id":"https://droidsans.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://droidsans.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2020/12/oneplus-nord-n10-5g-line-friends-special-box-set-announced-h.jpg","width":1200,"height":628},{"@type":"WebPage","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage","url":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/","name":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19 | DroidSans","isPartOf":{"@id":"https://droidsans.com/#website"},"primaryImageOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-17T12:41:53+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/"]}]},{"@type":"Article","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#article","isPartOf":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"author":{"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce"},"headline":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19","datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-17T12:41:53+00:00","mainEntityOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"commentCount":0,"publisher":{"@id":"https://droidsans.com/#organization"},"image":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"keywords":"5G,OnePlus,OnePlus Nord N10 5G,OnePlus Nord N10 5G LINE FRIENDS Special Box Set","articleSection":"News","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#respond"]}]},{"@type":["Person"],"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce","name":"Thanapoom","image":{"@type":"ImageObject","@id":"https://droidsans.com/#personlogo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2016/10/default_avatar-square-96x96.png","caption":"Thanapoom"}}]}
-/* <![CDATA[ */ var cnArgs = {"ajaxUrl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","nonce":"b7a2c4a2c1","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"}; /* ]]> */
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://droidsans.com/#organization","name":"Droidsans","url":"https://droidsans.com/","sameAs":["https://www.facebook.com/droidsans/","https://www.youtube.com/droidsans","https://twitter.com/droidsans"],"logo":{"@type":"ImageObject","@id":"https://droidsans.com/#logo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2018/09/droidsans-logo-190x36e.png","width":600,"height":256,"caption":"Droidsans"},"image":{"@id":"https://droidsans.com/#logo"}},{"@type":"WebSite","@id":"https://droidsans.com/#website","url":"https://droidsans.com/","name":"DroidSans","description":"The First Android Community in Thailand","publisher":{"@id":"https://droidsans.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":"https://droidsans.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2020/12/oneplus-nord-n10-5g-line-friends-special-box-set-announced-h.jpg","width":1200,"height":628},{"@type":"WebPage","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage","url":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/","name":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19 | DroidSans","isPartOf":{"@id":"https://droidsans.com/#website"},"primaryImageOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-18T05:23:56+00:00","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/"]}]},{"@type":"Article","@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#article","isPartOf":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"author":{"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce"},"headline":"\u0e40\u0e1b\u0e34\u0e14\u0e15\u0e31\u0e27 OnePlus Nord N10 5G LINE FRIENDS Special Box Set \u0e2a\u0e38\u0e14\u0e1e\u0e34\u0e40\u0e28\u0e29 \u0e23\u0e32\u0e04\u0e32 11,490 \u0e1a\u0e32\u0e17 \u0e21\u0e35\u0e02\u0e32\u0e22\u0e41\u0e04\u0e48\u0e17\u0e35\u0e48\u0e44\u0e17\u0e22\u0e40\u0e17\u0e48\u0e32\u0e19\u0e31\u0e49\u0e19","datePublished":"2020-12-17T12:35:33+00:00","dateModified":"2020-12-18T05:23:56+00:00","mainEntityOfPage":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#webpage"},"commentCount":2,"publisher":{"@id":"https://droidsans.com/#organization"},"image":{"@id":"https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#primaryimage"},"keywords":"5G,Line,LINE FRIEND,OnePlus,OnePlus Nord N10 5G","articleSection":"News","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://droidsans.com/oneplus-nord-n10-5g-line-friends-special-box-set-announced/#respond"]}]},{"@type":["Person"],"@id":"https://droidsans.com/#/schema/person/1575d7c880891a82198d158481f923ce","name":"Thanapoom","image":{"@type":"ImageObject","@id":"https://droidsans.com/#personlogo","inLanguage":"en-US","url":"https://images.droidsans.com/wp-content/uploads/2016/10/default_avatar-square-96x96.png","caption":"Thanapoom"}}]}
+/* <![CDATA[ */ var cnArgs = {"ajaxUrl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","nonce":"5408d733b5","hideEffect":"fade","position":"bottom","onScroll":"0","onScrollOffset":"100","onClick":"0","cookieName":"cookie_notice_accepted","cookieTime":"2592000","cookieTimeRejected":"2592000","cookiePath":"\/","cookieDomain":"","redirection":"0","cache":"1","refuse":"0","revokeCookies":"0","revokeCookiesOpt":"automatic","secure":"1","coronabarActive":"0"}; /* ]]> */
 /* <![CDATA[ */ var fbl = {"ajaxurl":"https:\/\/droidsans.com\/wp-admin\/admin-ajax.php","site_url":"https:\/\/droidsans.com","scopes":"email,public_profile","appId":"1396066397278173","l18n":{"chrome_ios_alert":"Please login into facebook and then click connect button again"}}; /* ]]> */
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -61,16 +61,18 @@ Thanapoom
 Posted on
 December 17, 2020
 View
- 17
+ 6.4K
+Comment
+ 2
 บทความที่เกี่ยวข้อง
-CEO OnePlus คอนเฟิร์ม สมาร์ทโฟน 5G ของ OnePlus พร้อมเผยโฉมในเดือนพฤษภาคม 2019
-อีกหนึ่งกระแสที่กำลังจะมาแรงในปีหน้านอกจากสมาร์ทโฟนพับได้คือสมาร์ทโฟนที่รองรับเครือข่าย 5G ซึ่งหลายค่ายหลายแบรนด์นั้นวางแผนจะเปิดตัวและวางขายกันในช่วงปีหน้า OnePlus ก็เป็นอีกแบรนด์ที่มีเป้าหมายว่าจะปล่อยสมาร์ทโฟนที่รองรับ 5G ในยุโรปในช่วงปีหน้า ล่าสุด CEO ของ OnePlus อย่างคุณ Pete Lau ได้เปิดเผยถึงข้อมูลบางอย่างเกี่ยวกับสมาร์ทโฟน 5G ของ OnePlus แล้ว
 OnePlus 8 Pro เครื่องหิ้ว ยังไม่รองรับ 5G ในไทย ทั้ง ROM จีน และ ROM Global (กำลังทดสอบเพิ่มเติม)
 แฟนๆ OnePlus ที่กำลังรอคอย OnePlus 8 และ 8 Pro กันตอนนี้หลายๆ นอกจากประสิทธิภาพชิปเซ็ต และกล้องแล้ว หลายๆ คนน่าจะอยากเอามาใช้งาน 5G ซึ่งในไทยซึ่งเริ่มเปิดให้บริการกันแล้ว ทีมงานของ droidsans ได้ไปลองซื้อเครื่องหิ้วมาทดสอบ แต่ปรากฏว่าตัวเครื่องยังไม่รองรับ 5G ในประเทศไทย
-OnePlus คอนเฟิร์มสมาร์ทโฟนรุ่นใหม่ที่มีข่าว 5G นั้นยังไม่ใช่ OnePlus 7
-นอกจากสมาร์ทโฟนพับได้ สมาร์ทโฟนที่รองรับเครือข่าย 5G ก็เป็นอีกอย่างที่กำลังจะมา หลายๆ แบรนด์ก็เตรียมจะออกสมาร์ทโฟนที่รองรับ 5G ของตัวเองรวมไปถึง OnePlus ที่ได้ออกมาบอกแล้วว่าสมาร์ทโฟน 5G ที่มีข่าวออกมาในตอนนี้จะไม่ใช่ OnePlus 7 แน่นอน คาดว่าน่าจะเป็นไลน์สินค้าใหม่ของ OnePlus เลย
 ซีอีโอ OnePlus ยืนยัน OnePlus 8 series จะรองรับการใช้งาน 5G แต่ราคาอาจแพงขึ้นอีกเล็กน้อย
 หากใครที่ติดตามข่าวสารของแบรนด์ OnePlus อยู่บ่อยๆ น่าจะคุ้นชินกับชื่อของ Pete Lau ซีอีโอคนดังของบริษัทเป็นอย่างดี เพราะเวลามีงานเปิดตัว เขามักจะเป็นหนึ่งในพิธีกรออกมาเล่าสรรพคุณ บรรยายฟีเจอร์ต่างๆ ฯลฯ โดยล่าสุดคุณ Pete ออกมาคอนเฟิร์มแล้วว่า OnePlus 8 series จะรองรับการใช้งาน 5G ทุกรุ่น
+กสทช. เล็งเก็บเงิน Facebook – YouTube – LINE – Netflix ใครไม่จ่ายจะถูกจำกัดสปีด สตรีมได้ไม่เต็มคุณภาพ
+ปัจจุบันมีผู้ใช้งานสื่อออนไลน์เป็นจำนวนมาก โดยเฉพาะบริการวิดีโออย่าง Facebook Netflix  LINE หรือ Youtube ซึ่งบริการเหล่านี้เป็นบริการที่ใช้ดาต้าสูง กินทราฟิกของอินเทอร์เน็ตภายในประเทศเป็นจำนวนมาก และคาดว่าจะเพิ่มมากขึ้นเรื่อยๆ กสทช. จึงปิ๊งไอเดียเสนอให้รัฐเรียกเก็บเงินจากผู้ให้บริการประเภทนี้ในอนาคต โดยให้เหตุผลว่าบริการเหล่านี้มีการใช้งานโครงสร้างพื้นฐานโทรคมนาคมของประเทศต้องมีการพัฒนาและบำรุงรักษาตลอดเวลา
+เปิดตัว OnePlus Nord N10 5G สมาร์ทโฟนสเปคครบ เคาะราคาไม่ถึงหมื่น
+ในที่สุดก็เดินทางมาเปิดตัวในประเทศไทยอย่างเป็นทางการแล้วสำหรับสมาร์ทโฟนระดับกลางสเปคคุ้มๆ ของ OnePlus อย่าง OnePlus Nord N10 5G โดยมือถือรุ่นนี้จะมีจุดเด่นอยู่ที่หน้าจอค่ารีเฟรชเรท 90Hz, กล้องหลัง 4 ตัว ความละเอียด 64MP, ลำโพงคู่แบบสเตอริโอ และรองรับระบบชาร์จไว Warp Charge 30T แบบเดียวกับเรือธง OnePlus 8 Pro เลย ทั้งหมดนี้ในราคาแค่ 9,990 บาทเท่านั้น
 เนื่องในโอกาสครบรอบ 7 ปี OnePlus จัดเซอร์ไพรส์เอาใจ ๆ แฟน ๆ เปิดตัว 
 Nord N10 5G LINE FRIENDS Special Box Set
  ที่มีวางจำหน่ายเฉพาะแค่ในประเทศไทยเท่านั้น เอ็กซ์คลูซีฟสุด ๆ แถมราคาก็ไม่แพงอย่างที่คิด 
@@ -161,18 +163,30 @@ JD Central
 Thisshop
 ที่มา : อีเมลประชาสัมพันธ์
 5G
+Line
+LINE FRIEND
 OnePlus
 OnePlus Nord N10 5G
-OnePlus Nord N10 5G LINE FRIENDS Special Box Set
 บทความที่เกี่ยวข้อง
-CEO OnePlus คอนเฟิร์ม สมาร์ทโฟน 5G ของ OnePlus พร้อมเผยโฉมในเดือนพฤษภาคม 2019
-อีกหนึ่งกระแสที่กำลังจะมาแรงในปีหน้านอกจากสมาร์ทโฟนพับได้คือสมาร์ทโฟนที่รองรับเครือข่าย 5G ซึ่งหลายค่ายหลายแบรนด์นั้นวางแผนจะเปิดตัวและวางขายกันในช่วงปีหน้า OnePlus ก็เป็นอีกแบรนด์ที่มีเป้าหมายว่าจะปล่อยสมาร์ทโฟนที่รองรับ 5G ในยุโรปในช่วงปีหน้า ล่าสุด CEO ของ OnePlus อย่างคุณ Pete Lau ได้เปิดเผยถึงข้อมูลบางอย่างเกี่ยวกับสมาร์ทโฟน 5G ของ OnePlus แล้ว
 OnePlus 8 Pro เครื่องหิ้ว ยังไม่รองรับ 5G ในไทย ทั้ง ROM จีน และ ROM Global (กำลังทดสอบเพิ่มเติม)
 แฟนๆ OnePlus ที่กำลังรอคอย OnePlus 8 และ 8 Pro กันตอนนี้หลายๆ นอกจากประสิทธิภาพชิปเซ็ต และกล้องแล้ว หลายๆ คนน่าจะอยากเอามาใช้งาน 5G ซึ่งในไทยซึ่งเริ่มเปิดให้บริการกันแล้ว ทีมงานของ droidsans ได้ไปลองซื้อเครื่องหิ้วมาทดสอบ แต่ปรากฏว่าตัวเครื่องยังไม่รองรับ 5G ในประเทศไทย
-OnePlus คอนเฟิร์มสมาร์ทโฟนรุ่นใหม่ที่มีข่าว 5G นั้นยังไม่ใช่ OnePlus 7
-นอกจากสมาร์ทโฟนพับได้ สมาร์ทโฟนที่รองรับเครือข่าย 5G ก็เป็นอีกอย่างที่กำลังจะมา หลายๆ แบรนด์ก็เตรียมจะออกสมาร์ทโฟนที่รองรับ 5G ของตัวเองรวมไปถึง OnePlus ที่ได้ออกมาบอกแล้วว่าสมาร์ทโฟน 5G ที่มีข่าวออกมาในตอนนี้จะไม่ใช่ OnePlus 7 แน่นอน คาดว่าน่าจะเป็นไลน์สินค้าใหม่ของ OnePlus เลย
 ซีอีโอ OnePlus ยืนยัน OnePlus 8 series จะรองรับการใช้งาน 5G แต่ราคาอาจแพงขึ้นอีกเล็กน้อย
 หากใครที่ติดตามข่าวสารของแบรนด์ OnePlus อยู่บ่อยๆ น่าจะคุ้นชินกับชื่อของ Pete Lau ซีอีโอคนดังของบริษัทเป็นอย่างดี เพราะเวลามีงานเปิดตัว เขามักจะเป็นหนึ่งในพิธีกรออกมาเล่าสรรพคุณ บรรยายฟีเจอร์ต่างๆ ฯลฯ โดยล่าสุดคุณ Pete ออกมาคอนเฟิร์มแล้วว่า OnePlus 8 series จะรองรับการใช้งาน 5G ทุกรุ่น
+กสทช. เล็งเก็บเงิน Facebook – YouTube – LINE – Netflix ใครไม่จ่ายจะถูกจำกัดสปีด สตรีมได้ไม่เต็มคุณภาพ
+ปัจจุบันมีผู้ใช้งานสื่อออนไลน์เป็นจำนวนมาก โดยเฉพาะบริการวิดีโออย่าง Facebook Netflix  LINE หรือ Youtube ซึ่งบริการเหล่านี้เป็นบริการที่ใช้ดาต้าสูง กินทราฟิกของอินเทอร์เน็ตภายในประเทศเป็นจำนวนมาก และคาดว่าจะเพิ่มมากขึ้นเรื่อยๆ กสทช. จึงปิ๊งไอเดียเสนอให้รัฐเรียกเก็บเงินจากผู้ให้บริการประเภทนี้ในอนาคต โดยให้เหตุผลว่าบริการเหล่านี้มีการใช้งานโครงสร้างพื้นฐานโทรคมนาคมของประเทศต้องมีการพัฒนาและบำรุงรักษาตลอดเวลา
+เปิดตัว OnePlus Nord N10 5G สมาร์ทโฟนสเปคครบ เคาะราคาไม่ถึงหมื่น
+ในที่สุดก็เดินทางมาเปิดตัวในประเทศไทยอย่างเป็นทางการแล้วสำหรับสมาร์ทโฟนระดับกลางสเปคคุ้มๆ ของ OnePlus อย่าง OnePlus Nord N10 5G โดยมือถือรุ่นนี้จะมีจุดเด่นอยู่ที่หน้าจอค่ารีเฟรชเรท 90Hz, กล้องหลัง 4 ตัว ความละเอียด 64MP, ลำโพงคู่แบบสเตอริโอ และรองรับระบบชาร์จไว Warp Charge 30T แบบเดียวกับเรือธง OnePlus 8 Pro เลย ทั้งหมดนี้ในราคาแค่ 9,990 บาทเท่านั้น
+ 2 Comments 
+KuLiKo
+Post on December 17, 2020 at 9:56 pm
+#1025242
+กำ น่ารักแท้ 555 เอาซะอยากได้เลย
+Log in to Reply
+ธนาคารสีเทา
+Post on December 18, 2020 at 10:29 am
+#1025246
+12.12 ของเพิ่งถึงเมื่อวันพุธเอง เสียดายอ่า
+Log in to Reply
 Leave a Reply
 Cancel
 You must be 
@@ -184,26 +198,25 @@ googletag.cmd.push(function() {
     googletag.enableServices();
   });
 googletag.cmd.push(function() { googletag.display('div-gpt-ad-1484501014670-0'); });
-เปรียบเทียบ Xiaomi Mi 10T Pro กับ iPhone 12 Pro Max มือถือเรือธงสองค่าย ราคาต่างกันเกือบ 3 เท่า สเปคต่างกันมากน้อยแค่ไหน
-ต้องบอกเลยว่า Xiaomi Mi 10T Pro หลังจากที่เปิดตัวมากระแสแรงมาก ๆ เพราะด้วยราคาเทียบกับสเปคแล้วถือว่าคุ้มสุด ๆ ทั้งใช้ชิปเซ็ตเป็น Snapdragon 865 รองรับ 5G...
-29.0K
-12
-Samsung จัดโปรโหด Galaxy S10+, S20, S20+ และ Z Flip เครื่องเปล่าราคาพิเศษ ลดสูงสุด 70% ผ่อน 0% สูงสุด 15 เดือน
-Samsung มอบเซอร์ไพรส์ใหญ่ส่งท้ายปี ยกขบวนสินค้ามาจัดโปรโมชั่น ลดราคาสูงสุดถึง 70% แถมผ่อน 0% ได้อีก 15 เดือน เครื่องใหม่มือหนึ่ง ไม่ติดสัญญา ประกันเต็ม 1...
-18.8K
-13
-Samsung เตรียมเปิดตัว Galaxy S21 Series ในวันที่ 14 มกราคม 2021 นี้ พร้อมวางจำหน่ายภายใน 2 สัปดาห์
-หลังจากที่มีข้อมูลของ Galaxy S21 Series หลุดออกมามากมาย พร้อมคลิปทีเซอร์ออกมาเรียกน้ำย่อยกันไปบ้างแล้ว ล่าสุดได้มีข้อมูลชุดใหม่ของวันเปิดตัวมือถือซีรีส์เรือธงรุ่นดังกล่าวแล้วคือวันที่ 14 มกราคม 2021 โดยเป็นข้อมูลที่เชื่อถือได้เลยล่ะ เพราะเป็นการยืนยันกมาจากร้านจำหน่ายสินค้า Samsung สาขาที่ใหญ่ที่สุดในประเทศอินเดียนั่นเองครับ
-14.2K
-2
-realme X7 Pro 5G เตรียมเดินทางมาเปิดตัวในประเทศไทย วันที่ 17 ธันวาคม 2020 นี้
-หลังจากที่มีรายชื่อผ่านการรับรองจาก กสทช.ไปเมื่อราว ๆ 2 เดือนก่อน ในที่สุด realme X7 Pro 5G ก็ได้ฤกษ์ประกาศวันเปิดตัวในประเทศไทยอย่างเป็นทางการแล้ว ในวันที่ 17 ธ.ค....
-13.2K
-7
-Mi Watch และ Mi Watch Lite เริ่มวางจำหน่ายในประเทศไทยแล้ว ราคาเริ่มต้นเพียง 1,490 บาท
-สายสุขภาพ และชอบของคุ้มๆ ห้ามพลาด! เพราะวันนี้ (12 ธันวาคม 2563) สมาร์ทวอทช์ราคาน่าคบหาทั้ง Mi Watch และ Mi Watch Lite...
-11.4K
-1
+เปิดตัว Xiaomi Mi 11 5G สมาร์ทโฟนชิป Snapdragon 888 รุ่นแรกของโลก เริ่มต้นราว 18,490 บาท
+Mi 11 5G สมาร์ทโฟนที่ขับเคลื่อนด้วย Snapdragon 888 เป็นรุ่นแรกของโลกจาก Xiaomi เปิดตัวมาตามนัด จัดเต็มด้วยจอภาพ AMOLED ขนาด 6.81 นิ้ว...
+22.8K
+5
+เอาเข้าไป…ซีอีโอ Xiaomi ยืนยันมือถือซีรีส์ Mi 11 จะไม่มีที่ชาร์จให้มาด้วย เพื่อเป็นการอนุรักษ์สิ่งแวดล้อม
+ดูเหมือนว่าที่หลายๆ คนเคยคาดเอาไว้จะเป็นจริงซะแล้ว...จากการที่ Apple ไม่แถมที่ชาร์จมาให้กับ iPhone 12 Series (หรือ iPhone รุ่นอื่นๆ ที่วางขายหลังจากนี้) ซึ่งจะทำให้มือถือแบรนด์อื่นๆ ทำตามกัน โดยก่อนหน้านี้เราได้ยินข่าวลือมาบ้างว่า...
+14.9K
+21
+OPPO Reno 5 Pro+ 5G เปิดตัวแล้ว มากับจอ OLED 90Hz, ชิป Snadpragon 865, กล้อง 50MP และชาร์จไว 65W
+หลังจากที่มีข้อมูลเผยออกมากันอย่างหนาหูไปเมื่อก่อนหน้านี้กับ OPPO Reno 5 Pro+ 5G วันนี้ก็ได้เปิดตัวกันไปเป็นที่เรียบร้อยแล้วกับมือถือใหม่จากทาง OPPO ที่มาพร้อมกับฟีเจอร์ระดับเรือธงมากมายไม่ว่าจะเป็นชิปเซ็ตอดีตตัวท็อปอย่าง Snapdragon 865 และกล้องหลักความละเอียดถึง 50MP อีกด้วย
+11.8K
+3
+dtac เปิดให้ใช้งานคลื่น 700 MHz แล้ว พร้อมขยายบริการอินเทอร์เน็ตความเร็วสูง ให้ครอบคลุมพื้นที่มากขึ้น
+ไม่ปล่อยให้รอนานจริงๆ หลังจากขึ้นแท่นเป็นผู้ให้บริการเครือข่ายเจ้าแรกในไทยที่ชำระค่าคลื่นความถี่ 700 MHz เป็นจำนวนเงินมูลค่ากว่า 1,881 ล้านบาท สำหรับ dtac ล่าสุดพวกเขาก็ออกมาประกาศว่าตอนนี้คลื่นดังกล่าวเปิดให้ใช้งานแล้วจ้า เริ่มต้นวันนี้วันแรกเลย ใช้งานได้เกือบทั่วประเทศ
+9.0K
+4
+มาอีกชุด…หลุดสเปคเต็มๆ Samsung Galaxy S21 และ Galaxy S21+ เผยสเปคกล้อง และหน้าจอแบบละเอียดยิบ
+เมื่อช่วงปลายเดือนพฤศจิกายนที่ผ่านมา เราได้เห็นข้อมูลสเปคชุดใหญ่ของ Galaxy S21 Series ทั้ง 3 รุ่น หลุดออกมาทีนึงแล้ว และล่าสุดก็ได้มีข้อมูลสเปคแบบเต็มๆ ของ Galaxy S21 และ...
+8.9K
 DroidSans
 googletag.cmd.push(function() {
     googletag.defineSlot('/102233444/AllPage300x600', [300, 600], 'div-gpt-ad-1484501580732-0').addService(googletag.pubads());
@@ -224,11 +237,11 @@ Marketplace
 ร่วมงานกัน
 โฆษณา
 Latest News
-HUAWEI Film Awards 2020 ประกวดภาพยนตร์สั้นที่ถ่ายทำด้วยมือถือ HUAWEI ชิงเงินรางวัลกว่า 3 แสนบาท
-เปิดตัว OnePlus Nord N10 5G LINE FRIENDS Special Box Set สุดพิเศษ ราคา 11,490 บาท มีขายแค่ที่ไทยเท่านั้น
-ลือ SYNNEX เตรียมเป็นตัวแทนจำหน่าย Nintendo ของประเทศไทย เร็วๆ นี้
-กำลังฮิต…แต่ง IG Story เกร๋ๆ ด้วยการวาดภาพปกอัลบั้มเพลง ที่แชร์มาจาก Spotify
-SBC EASY ระงับการย้ายเครื่องด้วยตนเองชั่วคราว หลังมิจฉาชีพส่งลิงก์ธนาคารปลอมผ่าน SMS ระบาดหนัก
+มาแล้ว! หลุดภาพจับเครื่องจริง Samsung Galaxy S21+ สีม่วง Phantom Violet
+Tips & Tricks | รวม 20 ทิปสุดเจ๋งสำหรับสมาร์ทโฟนและ PC ของปี 2020
+หลุดภาพ realme Koi ตัวเป็นๆ คาดมาพร้อมสเปคไฮเอนด์ Snapdragon 888 และระบบชาร์จไว 125W
+Boston Dynamics ปล่อยของต้อนรับปีใหม่ ด้วยหุ่นยนต์สเต็ปเทพเต้นพริ้วเหมือนคนจริงๆ
+Redmi 9T และ Note 9T มีชื่อผ่านการรับรองจาก กสทช.แล้ว ลุ้นเปิดตัวในไทยเร็ว ๆ นี้
 Our Team
  octopatr 
  Gimme 
@@ -264,7 +277,7 @@ WebFontConfig = {
       wf.async = true;
       s.parentNode.insertBefore(wf, s);
    })(document);
-pa_o = {"id":1564325,"k":"23aaef069276a7c763b78574fd61f2b1"};
+pa_o = {"id":1564325,"k":"6cd914b3e049fed0e16b019ed0bffe27"};
     (function(d) {
         var wf = d.createElement('script'), s = d.scripts[0];
         wf.src = 'https://images.droidsans.com/wp-content/themes/flex-mag-child/js/pa.js';
