@@ -1,13 +1,13 @@
 from bs4 import BeautifulSoup
 import requests
 import time
+import json
 
-
-url = "https://www.msn.com/th-th/news/national/ข่าวดีแรงงาน-ประกันสังคมแจ้งผู้รับผลกระทบโควิด-ยื่นรับสิทธิว่างงาน-ดีเดย์-4-มกราคมนี้/ar-BB1cqX4N"
+url = "https://www.thairath.co.th/news/crime/2009523"
 
 res = requests.get(url)
 res.encoding = "utf-8"
-print(res)
+# print(res)
 if res.status_code == 200:
     print("Successful")
 else:
@@ -16,15 +16,15 @@ else:
 soup = BeautifulSoup(res.text, 'html5lib')
 # print(soup.prettify())
 title = soup.title.string
-print(title)
+# print(title)
 h1 = soup.h1.string
 if(h1 != None and h1 != title):
-    print(h1)
+    pass
 else:
     None
 h2 = soup.h2.string
 if(h2 != None and h2 != h1):
-    print(h2)
+    pass
 else:
     None
 # h3 = soup.h3.string
@@ -38,7 +38,7 @@ if(p != None):
     for data in p:
         obj = data.string
         p_list.append(obj)
-    print(p_list)
+    # print(p_list)
 else:
     None
 
@@ -48,7 +48,7 @@ if(sp != None):
     for data in sp:
         obj = data.string
         sp_list.append(obj)
-    print(sp_list)
+    # print(sp_list)
 else:
     None
 
@@ -73,3 +73,21 @@ else:
 # Specific for pantip
 # content = soup.display-post-story.string
 # print(content)
+
+# data = {'Data':[{'Title': title, 'H1': h1, 'H2': h2, 'P': p_list, 'SP': sp_list}]}
+# export_data = json.dumps(data,ensure_ascii=False,indent=4)
+# print(export_data)
+
+url = "https://api.aiforthai.in.th/ssense"
+ 
+text = title
+ 
+data = {'text':text}
+ 
+headers = {
+    'Apikey': "07IC7nlLNGUsFXcERk4PoBCoL9TW7u6s"
+    }
+ 
+response = requests.post(url, data=data, headers=headers)
+
+print(response.json())
