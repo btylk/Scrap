@@ -3,7 +3,7 @@ import requests
 import time
 import json
 
-url = "https://www.thairath.co.th/news/crime/2009523"
+url = "https://www.sanook.com/news/8341106/"
 
 res = requests.get(url)
 res.encoding = "utf-8"
@@ -74,9 +74,9 @@ else:
 # content = soup.display-post-story.string
 # print(content)
 
-# data = {'Data':[{'Title': title, 'H1': h1, 'H2': h2, 'P': p_list, 'SP': sp_list}]}
-# export_data = json.dumps(data,ensure_ascii=False,indent=4)
-# print(export_data)
+data = {'Data':[{'Title': title}]}
+export_data = json.dumps(data,ensure_ascii=False,indent=4)
+print(export_data)
 
 url = "https://api.aiforthai.in.th/ssense"
  
@@ -89,5 +89,7 @@ headers = {
     }
  
 response = requests.post(url, data=data, headers=headers)
+sentiment_data = response.json()
+# print(sentiment_data["sentiment"])
 
-print(response.json())
+# print(response.json())
